@@ -1,0 +1,164 @@
+{
+    "Ambulancias": [
+        {
+            "id_ambulancias": "23",
+            "cod_ambulancias": "SAMU 01",
+            "placas": "EUC 735"
+        },
+        {
+            "id_ambulancias": "1",
+            "cod_ambulancias": "SAMU 02",
+            "placas": "EUC 740"
+        },
+        {
+            "id_ambulancias": "22",
+            "cod_ambulancias": "SAMU 03",
+            "placas": "EUC 711"
+        },
+        {
+            "id_ambulancias": "2",
+            "cod_ambulancias": "SAMU 04",
+            "placas": "EUC 712"
+        },
+        {
+            "id_ambulancias": "24",
+            "cod_ambulancias": "SAMU 05",
+            "placas": "EUC 734"
+        },
+        {
+            "id_ambulancias": "25",
+            "cod_ambulancias": "SAMU 07",
+            "placas": "EUC 731"
+        },
+        {
+            "id_ambulancias": "3",
+            "cod_ambulancias": "SAMU 08",
+            "placas": "EUC 755"
+        },
+        {
+            "id_ambulancias": "4",
+            "cod_ambulancias": "SAMU 09",
+            "placas": "EUC 721"
+        },
+        {
+            "id_ambulancias": "5",
+            "cod_ambulancias": "SAMU 10",
+            "placas": "EUC 710 "
+        },
+        {
+            "id_ambulancias": "6",
+            "cod_ambulancias": "SAMU 11",
+            "placas": "EUC 730"
+        },
+        {
+            "id_ambulancias": "7",
+            "cod_ambulancias": "SAMU 12",
+            "placas": "EUC 728"
+        },
+        {
+            "id_ambulancias": "26",
+            "cod_ambulancias": "SAMU 13",
+            "placas": "EUC 719"
+        },
+        {
+            "id_ambulancias": "8",
+            "cod_ambulancias": "SAMU 14",
+            "placas": "EUC 749"
+        },
+        {
+            "id_ambulancias": "9",
+            "cod_ambulancias": "SAMU 15",
+            "placas": "EUC 747"
+        },
+        {
+            "id_ambulancias": "10",
+            "cod_ambulancias": "SAMU 16",
+            "placas": "EUC 713"
+        },
+        {
+            "id_ambulancias": "11",
+            "cod_ambulancias": "SAMU 17",
+            "placas": "EUC 742"
+        },
+        {
+            "id_ambulancias": "27",
+            "cod_ambulancias": "SAMU 18",
+            "placas": "EUC 746"
+        },
+        {
+            "id_ambulancias": "12",
+            "cod_ambulancias": "SAMU 19",
+            "placas": "EUC 745"
+        },
+        {
+            "id_ambulancias": "13",
+            "cod_ambulancias": "SAMU 20",
+            "placas": "EUC 754"
+        },
+        {
+            "id_ambulancias": "14",
+            "cod_ambulancias": "SAMU 21",
+            "placas": "EUD 008"
+        },
+        {
+            "id_ambulancias": "28",
+            "cod_ambulancias": "SAMU 22",
+            "placas": "EUD 014"
+        },
+        {
+            "id_ambulancias": "15",
+            "cod_ambulancias": "SAMU 23",
+            "placas": "EUD 047"
+        },
+        {
+            "id_ambulancias": "16",
+            "cod_ambulancias": "SAMU 24",
+            "placas": "EUD 054"
+        },
+        {
+            "id_ambulancias": "17",
+            "cod_ambulancias": "SAMU 25",
+            "placas": "EUD 077"
+        },
+        {
+            "id_ambulancias": "18",
+            "cod_ambulancias": "SAMU 26",
+            "placas": "EUD 083"
+        },
+        {
+            "id_ambulancias": "19",
+            "cod_ambulancias": "SAMU 27",
+            "placas": "EUD 096"
+        },
+        {
+            "id_ambulancias": "20",
+            "cod_ambulancias": "SAMU 28",
+            "placas": "EUC 912"
+        },
+        {
+            "id_ambulancias": "29",
+            "cod_ambulancias": "SAMU 29",
+            "placas": "EUC 927"
+        },
+        {
+            "id_ambulancias": "30",
+            "cod_ambulancias": "SAMU 30",
+            "placas": "EUC 950"
+        },
+        {
+            "id_ambulancias": "21",
+            "cod_ambulancias": "SAMU 31",
+            "placas": "EUC 968 "
+        },
+        {
+            "id_ambulancias": "31",
+            "cod_ambulancias": "SAMU 32",
+            "placas": "EUC 989"
+        },
+        {
+            "id_ambulancias": "32",
+            "cod_ambulancias": "SAMU 33",
+            "placas": "EUC 992"
+        }
+    ]
+}

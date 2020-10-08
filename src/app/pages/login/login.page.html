@@ -1,0 +1,56 @@
+<app-header></app-header>
+<ion-content>
+  <div class="container">
+    <ion-row>
+      <ion-col size="3.5"></ion-col>
+      <ion-col size="5">
+        <ion-card style="border-radius: 15px;">
+          <ion-card-header style="margin-top:5%; margin-bottom:2%;text-align: center;">
+            <ion-card-subtitle>BIENVENIDO AL SISTEMA DE INFORMACIÓN DE EMERGENCIAS MÉDICAS</ion-card-subtitle>
+          </ion-card-header>
+          <ion-card-content>
+            <ion-input style="margin-left: 15%; width:70%; color: black" required="true" placeholder="Usuario:"
+              [(ngModel)]="Usuario" type="username">
+            </ion-input>
+            <ion-input style="margin-left: 15%; width:70%; color: black" required="true" placeholder="Contraseña:"
+              [(ngModel)]="Password" type="password">
+            </ion-input>            
+            <ionic-selectable #selectDiag (onChange)="setAmbu()" [(ngModel)]="ambul" style="margin-left: 15%; width:70%; color: black"
+              [items]="Ambulancias" itemValueField="id_ambulancias" searchPlaceholder="Ambulancia" [canSearch]="true" placeholder="Seleccionar Ambulancia"
+              [searchFailText]="'No se encontraron Ambulancias.'" itemTextField="cod_ambulancias" closeButtonText="">
+              <ng-template ionicSelectableTitleTemplate>
+                <span style="color: white;">Elegir Ambulancia</span>
+              </ng-template>
+              <ng-template ionicSelectableFooterTemplate>
+                <ion-footer>
+                  <ion-toolbar>
+                    <ion-row>
+                      <ion-col size="4">
+                        <ion-button color="dark" (click)="diagCancel()" expand="block" fill="clear" shape="round">
+                          Cancelar
+                        </ion-button>
+                      </ion-col>
+                      <ion-col size="4">
+                        <ion-button color="dark" (click)="diagClear()" expand="block" fill="clear" shape="round">
+                          Limpiar
+                        </ion-button>
+                      </ion-col>
+                      <ion-col size="4">
+                        <ion-button color="dark" (click)="diagConf()" expand="block" fill="clear" shape="round">
+                          Guardar
+                        </ion-button>
+                      </ion-col>
+                    </ion-row>
+                  </ion-toolbar>
+                </ion-footer>
+              </ng-template>
+            </ionic-selectable>
+          </ion-card-content>
+          <div style="text-align:center; margin-top:5%; margin-bottom:5%">
+            <ion-button (click)="login()" style="border-radius: 18px;">INGRESAR</ion-button>
+          </div>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+  </div>
+</ion-content>

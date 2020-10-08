@@ -1,0 +1,60 @@
+<app-header></app-header>
+<ion-content>
+  <div class="container">
+    <ion-header>
+      <ion-toolbar>
+        <ion-label color="dark" style="text-align: center;">
+          <h2>CONSULTAR CASOS</h2>
+        </ion-label>
+      </ion-toolbar>
+    </ion-header>
+    <ion-row>
+      <ion-col size="12">
+        <ion-text class="ion-text-left">
+          <h5>Los casos que se visualizan en esta pantalla, ya están cerrados. Solo podrá visualizar los PDF generados a
+            partir del Caso.</h5>
+        </ion-text>
+      </ion-col>
+    </ion-row>
+    <ion-list *ngFor="let c of casos" lines="none">
+      <ion-row>
+        <ion-col size="3">
+          <ion-item>
+            <ion-label><strong>Id Caso:</strong> {{c.caso}}</ion-label>
+          </ion-item>
+        </ion-col>
+        <ion-col size="9">
+          <ion-item>
+            <ion-label><strong>Paciente:</strong> {{c.paciente}}</ion-label>
+          </ion-item>
+        </ion-col>
+      </ion-row>
+      <ion-row>
+        <ion-col size="4.5">
+          <ion-item>
+            <ion-label><strong>H. Asignación:</strong> <span style="float:right;">{{c.hora_asignacion.replace("T"," ").replace("-05:00","").substring(0,16)}}</span></ion-label>
+          </ion-item>
+          <ion-item>
+            <ion-label><strong>H. Inicio:</strong> <span style="float:right;">{{c.hora_inicio.replace("T"," ").replace("-05:00","").substring(0,16)}}</span></ion-label>
+          </ion-item>
+        </ion-col>
+        <ion-col size="5">
+          <ion-item>
+            <ion-label><strong>H. Evento:</strong> <span style="float:right;">{{c.hora_evento.replace("T"," ").replace("-05:00","").substring(0,16)}}</span>
+            </ion-label>
+          </ion-item>
+          <ion-item>
+            <ion-label><strong>H. Hospital:</strong> <span style="float:right;">{{c.hora_hospital.replace("T"," ").replace("-05:00","").substring(0,16)}}</span>
+            </ion-label>
+          </ion-item>
+        </ion-col>
+        <ion-col size="1">
+          <ion-button (click)="CargarCasoPDF(c.caso)" >
+            <ion-icon slot="start" name="print"></ion-icon>
+            Ver Informe
+          </ion-button>
+        </ion-col>
+      </ion-row>
+    </ion-list>
+  </div>
+</ion-content>

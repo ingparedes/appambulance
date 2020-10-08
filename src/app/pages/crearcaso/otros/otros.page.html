@@ -1,0 +1,132 @@
+<ion-content color="dark">
+    <ion-row>
+        <ion-col size="12">
+            <ion-text class="ion-text-center">
+                <h5>Pertenencias del paciente y kilómetro final de la ambulancia</h5>
+            </ion-text>
+        </ion-col>
+    </ion-row>
+    <ion-row>
+        <ion-col size="4">
+            <ion-item>
+                <ion-label position="floating">Descripción</ion-label>
+                <ion-input [(ngModel)]="desc" type="text"></ion-input>
+            </ion-item>
+        </ion-col>
+        <ion-col size="3">
+            <ion-item>
+                <ion-label position="floating">Quién recibe</ion-label>
+                <ion-input [(ngModel)]="nombre_confirma" type="text"></ion-input>
+            </ion-item>
+        </ion-col>
+        <ion-col size="2">
+            <ion-item>
+                <ion-label position="floating">Teléfono</ion-label>
+                <ion-input [(ngModel)]="telefono_confirma" type="text"></ion-input>
+            </ion-item>
+        </ion-col>
+        <ion-col size="3">
+            <ion-item>
+                <ion-label position="floating">Kilómetro final</ion-label>
+                <ion-input [(ngModel)]="kfinal" type="text"></ion-input>
+            </ion-item>
+        </ion-col>
+    </ion-row>
+    <ion-row>
+        <ion-col size="12">
+            <ion-text class="ion-text-center">
+                <h5>Hospital</h5>
+            </ion-text>
+        </ion-col>
+    </ion-row>
+    <ion-row>
+        <ion-col size="6">
+            <ion-item>
+                <ion-label position="floating">Hospital que recibe al paciente</ion-label>
+                <ionic-selectable #selectHops [(ngModel)]="hos" [items]="hospitales" itemValueField="id"
+                    [searchFailText]="'No se encontraron Hospitales.'" itemTextField="nombre"
+                    searchPlaceholder="Buscar Hospital ..." [canSearch]="true" (onSearch)="searchAseg($event)"
+                    closeButtonText="">
+                    <ng-template ionicSelectableTitleTemplate>
+                        <span style="color: white;">Elegir Hospital</span>
+                    </ng-template>
+                    <ng-template ionicSelectableItemTemplate let-hospital="item">
+                        {{hospital.nombre}}, {{hospital.dpto}}, {{hospital.prov}}, {{hospital.dist}}, 
+                    </ng-template>
+                    <ng-template ionicSelectableFooterTemplate>
+                        <ion-footer>
+                            <ion-toolbar>
+                                <ion-row>
+                                    <ion-col size="4">
+                                        <ion-button color="dark" (click)="hospCancel()" expand="block" fill="clear"
+                                            shape="round">
+                                            Cancelar
+                                        </ion-button>
+                                    </ion-col>
+                                    <ion-col size="4">
+                                        <ion-button color="dark" (click)="hospClear()" expand="block" fill="clear"
+                                            shape="round">
+                                            Limpiar
+                                        </ion-button>
+                                    </ion-col>
+                                    <ion-col size="4">
+                                        <ion-button color="dark" (click)="hospConf()" expand="block" fill="clear"
+                                            shape="round">
+                                            Guardar
+                                        </ion-button>
+                                    </ion-col>
+                                </ion-row>
+                            </ion-toolbar>
+                        </ion-footer>
+                    </ng-template>
+                </ionic-selectable>
+                <ion-icon slot="end" name="create-outline"></ion-icon>
+            </ion-item>
+        </ion-col>
+        <ion-col size="6">
+            <ion-item>
+                <ion-label position="floating">Médico que recibe al paciente</ion-label>
+                <ion-input [(ngModel)]="med" type="text"></ion-input>
+            </ion-item>
+        </ion-col>
+        <ion-col size="12">
+            <ion-item>
+                <ion-label position="floating">Observaciones del caso</ion-label>
+                <ion-input [(ngModel)]="obscaso" type="text"></ion-input>
+            </ion-item>
+        </ion-col>
+    </ion-row>
+    <ion-row>
+        <ion-col size="12">
+            <ion-text class="ion-text-center">
+                <h5>Firma del médico que recibe al paciente en el hospital</h5>
+            </ion-text>
+        </ion-col>
+        <ion-col size="12">
+            <ion-item>
+                <ion-label position="floating">Firma del Médico</ion-label>
+                <canvas #imageCanvas (mousedown)="startDrawing($event)" (touchstart)="startDrawing($event)"
+                    (touchmove)="moved($event)" (mousemove)="moved($event)" (mouseup)="endDrawing()"
+                    (touchend)="endDrawing()"></canvas>
+                <ion-icon slot="end" name="create-outline"></ion-icon>
+            </ion-item>
+        </ion-col>
+    </ion-row>
+    <ion-row>
+        <ion-col size="12">
+            <ion-text class="ion-text-center">
+                <h5>Cerrar el caso</h5>
+            </ion-text>
+        </ion-col>
+        <ion-col size="12">
+            <ion-item>
+                <ion-label position="floating">Cerrar Caso</ion-label>
+                <ion-select cancelText="Cancelar" required="true" [(ngModel)]="cierre" (ionChange)="cerrarCaso()"
+                    [interfaceOptions]="customActionSheetOptions" interface="action-sheet" placeholder="Cerrar Caso">
+                    <ion-select-option *ngFor="let c of CierreCasos" value="{{c.id}}">{{c.nombre}}
+                    </ion-select-option>
+                </ion-select>
+            </ion-item>
+        </ion-col>
+    </ion-row>
+</ion-content>

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "6",
+        "nombre": "Agresión infantil"
+    },
+    {
+        "id": "5",
+        "nombre": "Agresión intrafamiliar"
+    },
+    {
+        "id": "4",
+        "nombre": "Agresión sexual"
+    },
+    {
+        "id": "1",
+        "nombre": "Arma blanca"
+    },
+    {
+        "id": "2",
+        "nombre": "Arma de fuego"
+    },
+    {
+        "id": "3",
+        "nombre": "Pelea riña"
+    }
+]

@@ -1,0 +1,104 @@
+{
+    "Departamentos": [
+        {
+            "cod_dpto": "01",
+            "nombre_dpto": "AMAZONAS"
+        },
+        {
+            "cod_dpto": "02",
+            "nombre_dpto": "ANCASH"
+        },
+        {
+            "cod_dpto": "03",
+            "nombre_dpto": "APURIMAC"
+        },
+        {
+            "cod_dpto": "04",
+            "nombre_dpto": "AREQUIPA"
+        },
+        {
+            "cod_dpto": "05",
+            "nombre_dpto": "AYACUCHO"
+        },
+        {
+            "cod_dpto": "06",
+            "nombre_dpto": "CAJAMARCA"
+        },
+        {
+            "cod_dpto": "07",
+            "nombre_dpto": "CALLAO"
+        },
+        {
+            "cod_dpto": "08",
+            "nombre_dpto": "CUSCO"
+        },
+        {
+            "cod_dpto": "09",
+            "nombre_dpto": "HUANCAVELICA"
+        },
+        {
+            "cod_dpto": "10",
+            "nombre_dpto": "HUANUCO"
+        },
+        {
+            "cod_dpto": "11",
+            "nombre_dpto": "ICA"
+        },
+        {
+            "cod_dpto": "12",
+            "nombre_dpto": "JUNIN"
+        },
+        {
+            "cod_dpto": "13",
+            "nombre_dpto": "LA LIBERTAD"
+        },
+        {
+            "cod_dpto": "14",
+            "nombre_dpto": "LAMBAYEQUE"
+        },
+        {
+            "cod_dpto": "15",
+            "nombre_dpto": "LIMA"
+        },
+        {
+            "cod_dpto": "16",
+            "nombre_dpto": "LORETO"
+        },
+        {
+            "cod_dpto": "17",
+            "nombre_dpto": "MADRE DE DIOS"
+        },
+        {
+            "cod_dpto": "18",
+            "nombre_dpto": "MOQUEGUA"
+        },
+        {
+            "cod_dpto": "19",
+            "nombre_dpto": "PASCO"
+        },
+        {
+            "cod_dpto": "20",
+            "nombre_dpto": "PIURA"
+        },
+        {
+            "cod_dpto": "21",
+            "nombre_dpto": "PUNO"
+        },
+        {
+            "cod_dpto": "22",
+            "nombre_dpto": "SAN MARTIN"
+        },
+        {
+            "cod_dpto": "23",
+            "nombre_dpto": "TACNA"
+        },
+        {
+            "cod_dpto": "24",
+            "nombre_dpto": "TUMBES"
+        },
+        {
+            "cod_dpto": "25",
+            "nombre_dpto": "UCAYALI"
+        }
+    ]
+}

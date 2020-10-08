@@ -1,0 +1,32 @@
+{
+    "Usuarios": [
+        {
+            "login": "dparedes",
+            "pw": "123"
+        },
+        {
+            "login": "123",
+            "pw": "1234567890"
+        },
+        {
+            "login": "ppp",
+            "pw": "$2y$10$YG.K/u2kOLDUvaEjYcDN5ukn0LRlEjb5oDq8DSrQJJQLlcCkLap2y"
+        },
+        {
+            "login": "ops",
+            "pw": "$2y$10$GiPC7WPG2HpuFmaJ.K/KPuWOMkNFsdCpcH5NcSX1dyDuUHq6Vbxx6"
+        },
+        {
+            "login": "usuariosede",
+            "pw": "$2y$10$d6MRh/TfHSHCIIJrQOx8..FqjnGCaJBwfYybV9wbJ2l1ND6cKMYWq"
+        },
+        {
+            "login": "zandres",
+            "pw": "$2y$10$A/XaTOj87lLYjUs7TpNADufxloI7gA0/eaBmoY6RwfphYBX9AS8ae"
+        },
+        {
+            "login": "despacho",
+            "pw": "$2y$10$A/XaTOj87lLYjUs7TpNADufxloI7gA0/eaBmoY6RwfphYBX9AS8ae"
+        }
+    ]
+}

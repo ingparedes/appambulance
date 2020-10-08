@@ -1,0 +1,129 @@
+{
+    "Traumas": [
+        {
+            "id": "8",
+            "causa_trauma_categoria": "2",
+            "nombre": "A agua"
+        },
+        {
+            "id": "6",
+            "causa_trauma_categoria": "1",
+            "nombre": "Agresión infantil"
+        },
+        {
+            "id": "5",
+            "causa_trauma_categoria": "1",
+            "nombre": "Agresión intrafamiliar"
+        },
+        {
+            "id": "4",
+            "causa_trauma_categoria": "1",
+            "nombre": "Agresión sexual"
+        },
+        {
+            "id": "14",
+            "causa_trauma_categoria": "4",
+            "nombre": "Ahogamiento"
+        },
+        {
+            "id": "9",
+            "causa_trauma_categoria": "2",
+            "nombre": "Altura"
+        },
+        {
+            "id": "1",
+            "causa_trauma_categoria": "1",
+            "nombre": "Arma blanca"
+        },
+        {
+            "id": "2",
+            "causa_trauma_categoria": "1",
+            "nombre": "Arma de fuego"
+        },
+        {
+            "id": "25",
+            "causa_trauma_categoria": "5",
+            "nombre": "Atropellamiento"
+        },
+        {
+            "id": "19",
+            "causa_trauma_categoria": "5",
+            "nombre": "Autobus"
+        },
+        {
+            "id": "18",
+            "causa_trauma_categoria": "5",
+            "nombre": "Automovil"
+        },
+        {
+            "id": "24",
+            "causa_trauma_categoria": "5",
+            "nombre": "Bicicleta"
+        },
+        {
+            "id": "20",
+            "causa_trauma_categoria": "5",
+            "nombre": "Camión"
+        },
+        {
+            "id": "21",
+            "causa_trauma_categoria": "5",
+            "nombre": "Colectivo"
+        },
+        {
+            "id": "12",
+            "causa_trauma_categoria": "3",
+            "nombre": "Electricidad"
+        },
+        {
+            "id": "10",
+            "causa_trauma_categoria": "3",
+            "nombre": "Fuego"
+        },
+        {
+            "id": "15",
+            "causa_trauma_categoria": "4",
+            "nombre": "Inmersión"
+        },
+        {
+            "id": "16",
+            "causa_trauma_categoria": "4",
+            "nombre": "Intoxicación"
+        },
+        {
+            "id": "17",
+            "causa_trauma_categoria": "4",
+            "nombre": "Mordedura"
+        },
+        {
+            "id": "22",
+            "causa_trauma_categoria": "5",
+            "nombre": "Moto con casco"
+        },
+        {
+            "id": "23",
+            "causa_trauma_categoria": "5",
+            "nombre": "Moto sin casco"
+        },
+        {
+            "id": "13",
+            "causa_trauma_categoria": "3",
+            "nombre": "Otros"
+        },
+        {
+            "id": "3",
+            "causa_trauma_categoria": "1",
+            "nombre": "Pelea riña"
+        },
+        {
+            "id": "11",
+            "causa_trauma_categoria": "3",
+            "nombre": "Quimico"
+        },
+        {
+            "id": "7",
+            "causa_trauma_categoria": "2",
+            "nombre": "Sup. rigida"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+<ion-content>
+    <ion-row>
+        <ion-col size="12">
+            <ion-text class="ion-text-center">
+                <h5>Exploración Fisica</h5>
+            </ion-text>
+        </ion-col>
+    </ion-row>
+    <ion-row>
+        <ion-col size="4" style="text-align: center;">
+            <ion-card button="true">
+                <ion-list style="height: 448px; overflow: scroll;">
+                    <ion-list-header>
+                        <h4>Traumas</h4>
+                    </ion-list-header>
+                    <ion-item lines="none" *ngFor="let ct of checkboxtrauma">
+                        <ion-label>{{ct.nombre}}</ion-label>
+                        <ion-button slot="start" (click)="addTrauma(ct.nombre,ct.id)" shape="round"><ion-icon name="add"></ion-icon></ion-button>
+                    </ion-item>
+                </ion-list>
+            </ion-card>
+        </ion-col>
+        <ion-col size="4" style="text-align: center;">
+            <canvas #imageCanvas width="250px" (mousedown)="startDrawing($event)"></canvas>
+            <!-- <img #bodyExpF style="height: 28rem;" src="../../../../assets/img/body.png"> (touchstart)="startDrawing($event)"(touchmove)="moved($event)" (touchend)="endDrawing($event)" -->
+        </ion-col>
+        <ion-col size="4" style="text-align: center;">            
+            <ion-card button="true" >
+                <ion-list style="height: 448px; overflow: scroll;">
+                    <ion-list-header>
+                        <h4>Traumas Asociados</h4>
+                    </ion-list-header>
+                    <ion-item lines="none" *ngFor="let ct of traumalist">                        
+                        <p>
+                            <span>Posición: {{ct.pos}}</span><br>
+                            <span>Trauma: {{ct.name}}</span>
+                        </p>                        
+                    </ion-item>
+                    <ion-button (click)="clear()" expand="block" fill="clear" shape="round">
+                        Limpiar Traumas
+                    </ion-button>                    
+                </ion-list>
+            </ion-card>
+        </ion-col>
+    </ion-row>
+</ion-content>

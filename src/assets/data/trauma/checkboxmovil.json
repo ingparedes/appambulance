@@ -1,0 +1,34 @@
+[
+    {
+        "id": "25",
+        "nombre": "Atropellamiento"
+    },
+    {
+        "id": "19",
+        "nombre": "Autobus"
+    },
+    {
+        "id": "18",
+        "nombre": "Automovil"
+    },
+    {
+        "id": "24",
+        "nombre": "Bicicleta"
+    },
+    {
+        "id": "20",
+        "nombre": "Camión"
+    },
+    {
+        "id": "21",
+        "nombre": "Colectivo"
+    },
+    {
+        "id": "22",
+        "nombre": "Moto con casco"
+    },
+    {
+        "id": "23",
+        "nombre": "Moto sin casco"
+    }
+]

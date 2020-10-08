@@ -1,0 +1,179 @@
+{
+    "Traumas": [
+        {
+            "id": "22",
+            "explo_general_cat": "6",
+            "nombre": "Anisocoria"
+        },
+        {
+            "id": "1",
+            "explo_general_cat": "1",
+            "nombre": "Cálida"
+        },
+        {
+            "id": "2",
+            "explo_general_cat": "1",
+            "nombre": "Caliente"
+        },
+        {
+            "id": "6",
+            "explo_general_cat": "1",
+            "nombre": "Cianática"
+        },
+        {
+            "id": "17",
+            "explo_general_cat": "5",
+            "nombre": "Crepitación"
+        },
+        {
+            "id": "12",
+            "explo_general_cat": "3",
+            "nombre": "Deformidad"
+        },
+        {
+            "id": "29",
+            "explo_general_cat": "8",
+            "nombre": "Desvió tráquea"
+        },
+        {
+            "id": "18",
+            "explo_general_cat": "5",
+            "nombre": "Disminucion de ruidos cardiacos"
+        },
+        {
+            "id": "25",
+            "explo_general_cat": "7",
+            "nombre": "Distención"
+        },
+        {
+            "id": "11",
+            "explo_general_cat": "3",
+            "nombre": "Dolor"
+        },
+        {
+            "id": "13",
+            "explo_general_cat": "4",
+            "nombre": "Dolor"
+        },
+        {
+            "id": "26",
+            "explo_general_cat": "7",
+            "nombre": "Doloroso"
+        },
+        {
+            "id": "30",
+            "explo_general_cat": "8",
+            "nombre": "Enfisema subcutanea"
+        },
+        {
+            "id": "10",
+            "explo_general_cat": "2",
+            "nombre": "Escoriación"
+        },
+        {
+            "id": "20",
+            "explo_general_cat": "5",
+            "nombre": "Estertores"
+        },
+        {
+            "id": "27",
+            "explo_general_cat": "7",
+            "nombre": "Evisceración"
+        },
+        {
+            "id": "3",
+            "explo_general_cat": "1",
+            "nombre": "Fría"
+        },
+        {
+            "id": "7",
+            "explo_general_cat": "2",
+            "nombre": "Hematoma"
+        },
+        {
+            "id": "33",
+            "explo_general_cat": "9",
+            "nombre": "Hemiparesia"
+        },
+        {
+            "id": "32",
+            "explo_general_cat": "9",
+            "nombre": "Hemiplejia"
+        },
+        {
+            "id": "15",
+            "explo_general_cat": "5",
+            "nombre": "Hundimiento"
+        },
+        {
+            "id": "8",
+            "explo_general_cat": "2",
+            "nombre": "Hundimiento"
+        },
+        {
+            "id": "14",
+            "explo_general_cat": "4",
+            "nombre": "Inestabilidad"
+        },
+        {
+            "id": "31",
+            "explo_general_cat": "8",
+            "nombre": "Injurtación venoyugular"
+        },
+        {
+            "id": "24",
+            "explo_general_cat": "6",
+            "nombre": "Midriasis"
+        },
+        {
+            "id": "23",
+            "explo_general_cat": "6",
+            "nombre": "Miosis"
+        },
+        {
+            "id": "19",
+            "explo_general_cat": "5",
+            "nombre": "Murmullo vesicular ausente"
+        },
+        {
+            "id": "34",
+            "explo_general_cat": "9",
+            "nombre": "Paraplejia"
+        },
+        {
+            "id": "9",
+            "explo_general_cat": "2",
+            "nombre": "Penetrante"
+        },
+        {
+            "id": "21",
+            "explo_general_cat": "6",
+            "nombre": "Perforación ojo"
+        },
+        {
+            "id": "28",
+            "explo_general_cat": "7",
+            "nombre": "Rigido"
+        },
+        {
+            "id": "5",
+            "explo_general_cat": "1",
+            "nombre": "Seca"
+        },
+        {
+            "id": "4",
+            "explo_general_cat": "1",
+            "nombre": "Sudorosa"
+        },
+        {
+            "id": "35",
+            "explo_general_cat": "9",
+            "nombre": "Tetraplejia"
+        },
+        {
+            "id": "16",
+            "explo_general_cat": "5",
+            "nombre": "Tórax inestable"
+        }
+    ]
+}

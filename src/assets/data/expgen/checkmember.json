@@ -1,0 +1,18 @@
+[
+    {
+        "id": "33",
+        "nombre": "Hemiparesia"
+    },
+    {
+        "id": "32",
+        "nombre": "Hemiplejia"
+    },
+    {
+        "id": "34",
+        "nombre": "Paraplejia"
+    },
+    {
+        "id": "35",
+        "nombre": "Tetraplejia"
+    }
+]

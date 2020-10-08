@@ -1,0 +1,984 @@
+{
+    "Provincias": [
+        {
+            "cod_departamento": "03",
+            "cod_provincia": "0301",
+            "nombre_provincia": "ABANCAY"
+        },
+        {
+            "cod_departamento": "09",
+            "cod_provincia": "0902",
+            "nombre_provincia": "ACOBAMBA"
+        },
+        {
+            "cod_departamento": "08",
+            "cod_provincia": "0802",
+            "nombre_provincia": "ACOMAYO"
+        },
+        {
+            "cod_departamento": "02",
+            "cod_provincia": "0202",
+            "nombre_provincia": "AIJA"
+        },
+        {
+            "cod_departamento": "16",
+            "cod_provincia": "1602",
+            "nombre_provincia": "ALTO AMAZONAS"
+        },
+        {
+            "cod_departamento": "10",
+            "cod_provincia": "1002",
+            "nombre_provincia": "AMBO"
+        },
+        {
+            "cod_departamento": "03",
+            "cod_provincia": "0302",
+            "nombre_provincia": "ANDAHUAYLAS"
+        },
+        {
+            "cod_departamento": "09",
+            "cod_provincia": "0903",
+            "nombre_provincia": "ANGARAES"
+        },
+        {
+            "cod_departamento": "08",
+            "cod_provincia": "0803",
+            "nombre_provincia": "ANTA"
+        },
+        {
+            "cod_departamento": "03",
+            "cod_provincia": "0303",
+            "nombre_provincia": "ANTABAMBA"
+        },
+        {
+            "cod_departamento": "02",
+            "cod_provincia": "0203",
+            "nombre_provincia": "ANTONIO RAIMONDI"
+        },
+        {
+            "cod_departamento": "04",
+            "cod_provincia": "0401",
+            "nombre_provincia": "AREQUIPA"
+        },
+        {
+            "cod_departamento": "13",
+            "cod_provincia": "1302",
+            "nombre_provincia": "ASCOPE"
+        },
+        {
+            "cod_departamento": "02",
+            "cod_provincia": "0204",
+            "nombre_provincia": "ASUNCION"
+        },
+        {
+            "cod_departamento": "25",
+            "cod_provincia": "2502",
+            "nombre_provincia": "ATALAYA"
+        },
+        {
+            "cod_departamento": "20",
+            "cod_provincia": "2002",
+            "nombre_provincia": "AYABACA"
+        },
+        {
+            "cod_departamento": "03",
+            "cod_provincia": "0304",
+            "nombre_provincia": "AYMARAES"
+        },
+        {
+            "cod_departamento": "21",
+            "cod_provincia": "2102",
+            "nombre_provincia": "AZANGARO"
+        },
+        {
+            "cod_departamento": "01",
+            "cod_provincia": "0102",
+            "nombre_provincia": "BAGUA"
+        },
+        {
+            "cod_departamento": "15",
+            "cod_provincia": "1502",
+            "nombre_provincia": "BARRANCA"
+        },
+        {
+            "cod_departamento": "22",
+            "cod_provincia": "2202",
+            "nombre_provincia": "BELLAVISTA"
+        },
+        {
+            "cod_departamento": "13",
+            "cod_provincia": "1303",
+            "nombre_provincia": "BOLIVAR"
+        },
+        {
+            "cod_departamento": "02",
+            "cod_provincia": "0205",
+            "nombre_provincia": "BOLOGNESI"
+        },
+        {
+            "cod_departamento": "01",
+            "cod_provincia": "0103",
+            "nombre_provincia": "BONGARA"
+        },
+        {
+            "cod_departamento": "06",
+            "cod_provincia": "0602",
+            "nombre_provincia": "CAJABAMBA"
+        },
+        {
+            "cod_departamento": "06",
+            "cod_provincia": "0601",
+            "nombre_provincia": "CAJAMARCA"
+        },
+        {
+            "cod_departamento": "15",
+            "cod_provincia": "1503",
+            "nombre_provincia": "CAJATAMBO"
+        },
+        {
+            "cod_departamento": "08",
+            "cod_provincia": "0804",
+            "nombre_provincia": "CALCA"
+        },
+        {
+            "cod_departamento": "07",
+            "cod_provincia": "0701",
+            "nombre_provincia": "CALLAO"
+        },
+        {
+            "cod_departamento": "04",
+            "cod_provincia": "0402",
+            "nombre_provincia": "CAMANA"
+        },
+        {
+            "cod_departamento": "08",
+            "cod_provincia": "0805",
+            "nombre_provincia": "CANAS"
+        },
+        {
+            "cod_departamento": "08",
+            "cod_provincia": "0806",
+            "nombre_provincia": "CANCHIS"
+        },
+        {
+            "cod_departamento": "23",
+            "cod_provincia": "2302",
+            "nombre_provincia": "CANDARAVE"
+        },
+        {
+            "cod_departamento": "15",
+            "cod_provincia": "1505",
+            "nombre_provincia": "CAÑETE"
+        },
+        {
+            "cod_departamento": "05",
+            "cod_provincia": "0502",
+            "nombre_provincia": "CANGALLO"
+        },
+        {
+            "cod_departamento": "15",
+            "cod_provincia": "1504",
+            "nombre_provincia": "CANTA"
+        },
+        {
+            "cod_departamento": "21",
+            "cod_provincia": "2103",
+            "nombre_provincia": "CARABAYA"
+        },
+        {
+            "cod_departamento": "04",
+            "cod_provincia": "0403",
+            "nombre_provincia": "CARAVELI"
+        },
+        {
+            "cod_departamento": "02",
+            "cod_provincia": "0206",
+            "nombre_provincia": "CARHUAZ"
+        },
+        {
+            "cod_departamento": "02",
+            "cod_provincia": "0207",
+            "nombre_provincia": "CARLOS FERMIN FITZCARRALD"
+        },
+        {
+            "cod_departamento": "02",
+            "cod_provincia": "0208",
+            "nombre_provincia": "CASMA"
+        },
+        {
+            "cod_departamento": "04",
+            "cod_provincia": "0404",
+            "nombre_provincia": "CASTILLA"
+        },
+        {
+            "cod_departamento": "09",
+            "cod_provincia": "0904",
+            "nombre_provincia": "CASTROVIRREYNA"
+        },
+        {
+            "cod_departamento": "04",
+            "cod_provincia": "0405",
+            "nombre_provincia": "CAYLLOMA"
+        },
+        {
+            "cod_departamento": "06",
+            "cod_provincia": "0603",
+            "nombre_provincia": "CELENDIN"
+        },
+        {
+            "cod_departamento": "01",
+            "cod_provincia": "0101",
+            "nombre_provincia": "CHACHAPOYAS"
+        },
+        {
+            "cod_departamento": "12",
+            "cod_provincia": "1203",
+            "nombre_provincia": "CHANCHAMAYO"
+        },
+        {
+            "cod_departamento": "13",
+            "cod_provincia": "1304",
+            "nombre_provincia": "CHEPEN"
+        },
+        {
+            "cod_departamento": "14",
+            "cod_provincia": "1401",
+            "nombre_provincia": "CHICLAYO"
+        },
+        {
+            "cod_departamento": "11",
+            "cod_provincia": "1102",
+            "nombre_provincia": "CHINCHA"
+        },
+        {
+            "cod_departamento": "03",
+            "cod_provincia": "0306",
+            "nombre_provincia": "CHINCHEROS"
+        },
+        {
+            "cod_departamento": "06",
+            "cod_provincia": "0604",
+            "nombre_provincia": "CHOTA"
+        },
+        {
+            "cod_departamento": "21",
+            "cod_provincia": "2104",
+            "nombre_provincia": "CHUCUITO"
+        },
+        {
+            "cod_departamento": "08",
+            "cod_provincia": "0807",
+            "nombre_provincia": "CHUMBIVILCAS"
+        },
+        {
+            "cod_departamento": "12",
+            "cod_provincia": "1209",
+            "nombre_provincia": "CHUPACA"
+        },
+        {
+            "cod_departamento": "09",
+            "cod_provincia": "0905",
+            "nombre_provincia": "CHURCAMPA"
+        },
+        {
+            "cod_departamento": "12",
+            "cod_provincia": "1202",
+            "nombre_provincia": "CONCEPCION"
+        },
+        {
+            "cod_departamento": "04",
+            "cod_provincia": "0406",
+            "nombre_provincia": "CONDESUYOS"
+        },
+        {
+            "cod_departamento": "01",
+            "cod_provincia": "0104",
+            "nombre_provincia": "CONDORCANQUI"
+        },
+        {
+            "cod_departamento": "24",
+            "cod_provincia": "2402",
+            "nombre_provincia": "CONTRALMIRANTE VILLAR"
+        },
+        {
+            "cod_departamento": "06",
+            "cod_provincia": "0605",
+            "nombre_provincia": "CONTUMAZA"
+        },
+        {
+            "cod_departamento": "25",
+            "cod_provincia": "2501",
+            "nombre_provincia": "CORONEL PORTILLO"
+        },
+        {
+            "cod_departamento": "02",
+            "cod_provincia": "0209",
+            "nombre_provincia": "CORONGO"
+        },
+        {
+            "cod_departamento": "03",
+            "cod_provincia": "0305",
+            "nombre_provincia": "COTABAMBAS"
+        },
+        {
+            "cod_departamento": "08",
+            "cod_provincia": "0801",
+            "nombre_provincia": "CUSCO"
+        },
+        {
+            "cod_departamento": "06",
+            "cod_provincia": "0606",
+            "nombre_provincia": "CUTERVO"
+        },
+        {
+            "cod_departamento": "19",
+            "cod_provincia": "1902",
+            "nombre_provincia": "DANIEL ALCIDES CARRION"
+        },
+        {
+            "cod_departamento": "16",
+            "cod_provincia": "1607",
+            "nombre_provincia": "DATEM DEL MARAÑON"
+        },
+        {
+            "cod_departamento": "10",
+            "cod_provincia": "1003",
+            "nombre_provincia": "DOS DE MAYO"
+        },
+        {
+            "cod_departamento": "21",
+            "cod_provincia": "2105",
+            "nombre_provincia": "EL COLLAO"
+        },
+        {
+            "cod_departamento": "22",
+            "cod_provincia": "2203",
+            "nombre_provincia": "EL DORADO"
+        },
+        {
+            "cod_departamento": "08",
+            "cod_provincia": "0808",
+            "nombre_provincia": "ESPINAR"
+        },
+        {
+            "cod_departamento": "14",
+            "cod_provincia": "1402",
+            "nombre_provincia": "FERREÑAFE"
+        },
+        {
+            "cod_departamento": "18",
+            "cod_provincia": "1802",
+            "nombre_provincia": "GENERAL SANCHEZ CERRO"
+        },
+        {
+            "cod_departamento": "13",
+            "cod_provincia": "1311",
+            "nombre_provincia": "GRAN CHIMU"
+        },
+        {
+            "cod_departamento": "03",
+            "cod_provincia": "0307",
+            "nombre_provincia": "GRAU"
+        },
+        {
+            "cod_departamento": "10",
+            "cod_provincia": "1004",
+            "nombre_provincia": "HUACAYBAMBA"
+        },
+        {
+            "cod_departamento": "06",
+            "cod_provincia": "0607",
+            "nombre_provincia": "HUALGAYOC"
+        },
+        {
+            "cod_departamento": "22",
+            "cod_provincia": "2204",
+            "nombre_provincia": "HUALLAGA"
+        },
+        {
+            "cod_departamento": "10",
+            "cod_provincia": "1005",
+            "nombre_provincia": "HUAMALIES"
+        },
+        {
+            "cod_departamento": "05",
+            "cod_provincia": "0501",
+            "nombre_provincia": "HUAMANGA"
+        },
+        {
+            "cod_departamento": "20",
+            "cod_provincia": "2003",
+            "nombre_provincia": "HUANCABAMBA"
+        },
+        {
+            "cod_departamento": "21",
+            "cod_provincia": "2106",
+            "nombre_provincia": "HUANCANE"
+        },
+        {
+            "cod_departamento": "05",
+            "cod_provincia": "0503",
+            "nombre_provincia": "HUANCA SANCOS"
+        },
+        {
+            "cod_departamento": "09",
+            "cod_provincia": "0901",
+            "nombre_provincia": "HUANCAVELICA"
+        },
+        {
+            "cod_departamento": "12",
+            "cod_provincia": "1201",
+            "nombre_provincia": "HUANCAYO"
+        },
+        {
+            "cod_departamento": "05",
+            "cod_provincia": "0504",
+            "nombre_provincia": "HUANTA"
+        },
+        {
+            "cod_departamento": "10",
+            "cod_provincia": "1001",
+            "nombre_provincia": "HUANUCO"
+        },
+        {
+            "cod_departamento": "15",
+            "cod_provincia": "1506",
+            "nombre_provincia": "HUARAL"
+        },
+        {
+            "cod_departamento": "02",
+            "cod_provincia": "0201",
+            "nombre_provincia": "HUARAZ"
+        },
+        {
+            "cod_departamento": "02",
+            "cod_provincia": "0210",
+            "nombre_provincia": "HUARI"
+        },
+        {
+            "cod_departamento": "02",
+            "cod_provincia": "0211",
+            "nombre_provincia": "HUARMEY"
+        },
+        {
+            "cod_departamento": "15",
+            "cod_provincia": "1507",
+            "nombre_provincia": "HUAROCHIRI"
+        },
+        {
+            "cod_departamento": "15",
+            "cod_provincia": "1508",
+            "nombre_provincia": "HUAURA"
+        },
+        {
+            "cod_departamento": "02",
+            "cod_provincia": "0212",
+            "nombre_provincia": "HUAYLAS"
+        },
+        {
+            "cod_departamento": "09",
+            "cod_provincia": "0906",
+            "nombre_provincia": "HUAYTARA"
+        },
+        {
+            "cod_departamento": "11",
+            "cod_provincia": "1101",
+            "nombre_provincia": "ICA"
+        },
+        {
+            "cod_departamento": "18",
+            "cod_provincia": "1803",
+            "nombre_provincia": "ILO"
+        },
+        {
+            "cod_departamento": "04",
+            "cod_provincia": "0407",
+            "nombre_provincia": "ISLAY"
+        },
+        {
+            "cod_departamento": "06",
+            "cod_provincia": "0608",
+            "nombre_provincia": "JAEN"
+        },
+        {
+            "cod_departamento": "12",
+            "cod_provincia": "1204",
+            "nombre_provincia": "JAUJA"
+        },
+        {
+            "cod_departamento": "23",
+            "cod_provincia": "2303",
+            "nombre_provincia": "JORGE BASADRE"
+        },
+        {
+            "cod_departamento": "13",
+            "cod_provincia": "1305",
+            "nombre_provincia": "JULCAN"
+        },
+        {
+            "cod_departamento": "12",
+            "cod_provincia": "1205",
+            "nombre_provincia": "JUNIN"
+        },
+        {
+            "cod_departamento": "08",
+            "cod_provincia": "0809",
+            "nombre_provincia": "LA CONVENCION"
+        },
+        {
+            "cod_departamento": "05",
+            "cod_provincia": "0505",
+            "nombre_provincia": "LA MAR"
+        },
+        {
+            "cod_departamento": "22",
+            "cod_provincia": "2205",
+            "nombre_provincia": "LAMAS"
+        },
+        {
+            "cod_departamento": "14",
+            "cod_provincia": "1403",
+            "nombre_provincia": "LAMBAYEQUE"
+        },
+        {
+            "cod_departamento": "21",
+            "cod_provincia": "2107",
+            "nombre_provincia": "LAMPA"
+        },
+        {
+            "cod_departamento": "04",
+            "cod_provincia": "0408",
+            "nombre_provincia": "LA UNION"
+        },
+        {
+            "cod_departamento": "10",
+            "cod_provincia": "1010",
+            "nombre_provincia": "LAURICOCHA"
+        },
+        {
+            "cod_departamento": "10",
+            "cod_provincia": "1006",
+            "nombre_provincia": "LEONCIO PRADO"
+        },
+        {
+            "cod_departamento": "15",
+            "cod_provincia": "1501",
+            "nombre_provincia": "LIMA"
+        },
+        {
+            "cod_departamento": "16",
+            "cod_provincia": "1603",
+            "nombre_provincia": "LORETO"
+        },
+        {
+            "cod_departamento": "05",
+            "cod_provincia": "0506",
+            "nombre_provincia": "LUCANAS"
+        },
+        {
+            "cod_departamento": "01",
+            "cod_provincia": "0105",
+            "nombre_provincia": "LUYA"
+        },
+        {
+            "cod_departamento": "17",
+            "cod_provincia": "1702",
+            "nombre_provincia": "MANU"
+        },
+        {
+            "cod_departamento": "10",
+            "cod_provincia": "1007",
+            "nombre_provincia": "MARAÑON"
+        },
+        {
+            "cod_departamento": "22",
+            "cod_provincia": "2206",
+            "nombre_provincia": "MARISCAL CACERES"
+        },
+        {
+            "cod_departamento": "02",
+            "cod_provincia": "0213",
+            "nombre_provincia": "MARISCAL LUZURIAGA"
+        },
+        {
+            "cod_departamento": "18",
+            "cod_provincia": "1801",
+            "nombre_provincia": "MARISCAL NIETO"
+        },
+        {
+            "cod_departamento": "16",
+            "cod_provincia": "1604",
+            "nombre_provincia": "MARISCAL RAMON CASTILLA"
+        },
+        {
+            "cod_departamento": "16",
+            "cod_provincia": "1601",
+            "nombre_provincia": "MAYNAS"
+        },
+        {
+            "cod_departamento": "21",
+            "cod_provincia": "2108",
+            "nombre_provincia": "MELGAR"
+        },
+        {
+            "cod_departamento": "21",
+            "cod_provincia": "2109",
+            "nombre_provincia": "MOHO"
+        },
+        {
+            "cod_departamento": "20",
+            "cod_provincia": "2004",
+            "nombre_provincia": "MORROPON"
+        },
+        {
+            "cod_departamento": "22",
+            "cod_provincia": "2201",
+            "nombre_provincia": "MOYOBAMBA"
+        },
+        {
+            "cod_departamento": "11",
+            "cod_provincia": "1103",
+            "nombre_provincia": "NAZCA"
+        },
+        {
+            "cod_departamento": "02",
+            "cod_provincia": "0214",
+            "nombre_provincia": "OCROS"
+        },
+        {
+            "cod_departamento": "13",
+            "cod_provincia": "1306",
+            "nombre_provincia": "OTUZCO"
+        },
+        {
+            "cod_departamento": "19",
+            "cod_provincia": "1903",
+            "nombre_provincia": "OXAPAMPA"
+        },
+        {
+            "cod_departamento": "15",
+            "cod_provincia": "1509",
+            "nombre_provincia": "OYON"
+        },
+        {
+            "cod_departamento": "13",
+            "cod_provincia": "1307",
+            "nombre_provincia": "PACASMAYO"
+        },
+        {
+            "cod_departamento": "10",
+            "cod_provincia": "1008",
+            "nombre_provincia": "PACHITEA"
+        },
+        {
+            "cod_departamento": "25",
+            "cod_provincia": "2503",
+            "nombre_provincia": "PADRE ABAD"
+        },
+        {
+            "cod_departamento": "20",
+            "cod_provincia": "2005",
+            "nombre_provincia": "PAITA"
+        },
+        {
+            "cod_departamento": "02",
+            "cod_provincia": "0215",
+            "nombre_provincia": "PALLASCA"
+        },
+        {
+            "cod_departamento": "11",
+            "cod_provincia": "1104",
+            "nombre_provincia": "PALPA"
+        },
+        {
+            "cod_departamento": "05",
+            "cod_provincia": "0507",
+            "nombre_provincia": "PARINACOCHAS"
+        },
+        {
+            "cod_departamento": "08",
+            "cod_provincia": "0810",
+            "nombre_provincia": "PARURO"
+        },
+        {
+            "cod_departamento": "19",
+            "cod_provincia": "1901",
+            "nombre_provincia": "PASCO"
+        },
+        {
+            "cod_departamento": "13",
+            "cod_provincia": "1308",
+            "nombre_provincia": "PATAZ"
+        },
+        {
+            "cod_departamento": "05",
+            "cod_provincia": "0508",
+            "nombre_provincia": "PAUCAR DEL SARA SARA"
+        },
+        {
+            "cod_departamento": "08",
+            "cod_provincia": "0811",
+            "nombre_provincia": "PAUCARTAMBO"
+        },
+        {
+            "cod_departamento": "22",
+            "cod_provincia": "2207",
+            "nombre_provincia": "PICOTA"
+        },
+        {
+            "cod_departamento": "11",
+            "cod_provincia": "1105",
+            "nombre_provincia": "PISCO"
+        },
+        {
+            "cod_departamento": "20",
+            "cod_provincia": "2001",
+            "nombre_provincia": "PIURA"
+        },
+        {
+            "cod_departamento": "02",
+            "cod_provincia": "0216",
+            "nombre_provincia": "POMABAMBA"
+        },
+        {
+            "cod_departamento": "10",
+            "cod_provincia": "1009",
+            "nombre_provincia": "PUERTO INCA"
+        },
+        {
+            "cod_departamento": "21",
+            "cod_provincia": "2101",
+            "nombre_provincia": "PUNO"
+        },
+        {
+            "cod_departamento": "25",
+            "cod_provincia": "2504",
+            "nombre_provincia": "PURUS"
+        },
+        {
+            "cod_departamento": "16",
+            "cod_provincia": "1608",
+            "nombre_provincia": "PUTUMAYO"
+        },
+        {
+            "cod_departamento": "08",
+            "cod_provincia": "0812",
+            "nombre_provincia": "QUISPICANCHI"
+        },
+        {
+            "cod_departamento": "02",
+            "cod_provincia": "0217",
+            "nombre_provincia": "RECUAY"
+        },
+        {
+            "cod_departamento": "16",
+            "cod_provincia": "1605",
+            "nombre_provincia": "REQUENA"
+        },
+        {
+            "cod_departamento": "22",
+            "cod_provincia": "2208",
+            "nombre_provincia": "RIOJA"
+        },
+        {
+            "cod_departamento": "01",
+            "cod_provincia": "0106",
+            "nombre_provincia": "RODRIGUEZ DE MENDOZA"
+        },
+        {
+            "cod_departamento": "21",
+            "cod_provincia": "2110",
+            "nombre_provincia": "SAN ANTONIO DE PUTINA"
+        },
+        {
+            "cod_departamento": "13",
+            "cod_provincia": "1309",
+            "nombre_provincia": "SANCHEZ CARRION"
+        },
+        {
+            "cod_departamento": "21",
+            "cod_provincia": "2112",
+            "nombre_provincia": "SANDIA"
+        },
+        {
+            "cod_departamento": "06",
+            "cod_provincia": "0609",
+            "nombre_provincia": "SAN IGNACIO"
+        },
+        {
+            "cod_departamento": "06",
+            "cod_provincia": "0610",
+            "nombre_provincia": "SAN MARCOS"
+        },
+        {
+            "cod_departamento": "22",
+            "cod_provincia": "2209",
+            "nombre_provincia": "SAN MARTIN"
+        },
+        {
+            "cod_departamento": "06",
+            "cod_provincia": "0611",
+            "nombre_provincia": "SAN MIGUEL"
+        },
+        {
+            "cod_departamento": "06",
+            "cod_provincia": "0612",
+            "nombre_provincia": "SAN PABLO"
+        },
+        {
+            "cod_departamento": "21",
+            "cod_provincia": "2111",
+            "nombre_provincia": "SAN ROMAN"
+        },
+        {
+            "cod_departamento": "02",
+            "cod_provincia": "0218",
+            "nombre_provincia": "SANTA"
+        },
+        {
+            "cod_departamento": "06",
+            "cod_provincia": "0613",
+            "nombre_provincia": "SANTA CRUZ"
+        },
+        {
+            "cod_departamento": "13",
+            "cod_provincia": "1310",
+            "nombre_provincia": "SANTIAGO DE CHUCO"
+        },
+        {
+            "cod_departamento": "12",
+            "cod_provincia": "1206",
+            "nombre_provincia": "SATIPO"
+        },
+        {
+            "cod_departamento": "20",
+            "cod_provincia": "2008",
+            "nombre_provincia": "SECHURA"
+        },
+        {
+            "cod_departamento": "02",
+            "cod_provincia": "0219",
+            "nombre_provincia": "SIHUAS"
+        },
+        {
+            "cod_departamento": "05",
+            "cod_provincia": "0509",
+            "nombre_provincia": "SUCRE"
+        },
+        {
+            "cod_departamento": "20",
+            "cod_provincia": "2006",
+            "nombre_provincia": "SULLANA"
+        },
+        {
+            "cod_departamento": "23",
+            "cod_provincia": "2301",
+            "nombre_provincia": "TACNA"
+        },
+        {
+            "cod_departamento": "17",
+            "cod_provincia": "1703",
+            "nombre_provincia": "TAHUAMANU"
+        },
+        {
+            "cod_departamento": "20",
+            "cod_provincia": "2007",
+            "nombre_provincia": "TALARA"
+        },
+        {
+            "cod_departamento": "17",
+            "cod_provincia": "1701",
+            "nombre_provincia": "TAMBOPATA"
+        },
+        {
+            "cod_departamento": "23",
+            "cod_provincia": "2304",
+            "nombre_provincia": "TARATA"
+        },
+        {
+            "cod_departamento": "12",
+            "cod_provincia": "1207",
+            "nombre_provincia": "TARMA"
+        },
+        {
+            "cod_departamento": "09",
+            "cod_provincia": "0907",
+            "nombre_provincia": "TAYACAJA"
+        },
+        {
+            "cod_departamento": "22",
+            "cod_provincia": "2210",
+            "nombre_provincia": "TOCACHE"
+        },
+        {
+            "cod_departamento": "13",
+            "cod_provincia": "1301",
+            "nombre_provincia": "TRUJILLO"
+        },
+        {
+            "cod_departamento": "24",
+            "cod_provincia": "2401",
+            "nombre_provincia": "TUMBES"
+        },
+        {
+            "cod_departamento": "16",
+            "cod_provincia": "1606",
+            "nombre_provincia": "UCAYALI"
+        },
+        {
+            "cod_departamento": "08",
+            "cod_provincia": "0813",
+            "nombre_provincia": "URUBAMBA"
+        },
+        {
+            "cod_departamento": "01",
+            "cod_provincia": "0107",
+            "nombre_provincia": "UTCUBAMBA"
+        },
+        {
+            "cod_departamento": "05",
+            "cod_provincia": "0510",
+            "nombre_provincia": "VICTOR FAJARDO"
+        },
+        {
+            "cod_departamento": "05",
+            "cod_provincia": "0511",
+            "nombre_provincia": "VILCAS HUAMAN"
+        },
+        {
+            "cod_departamento": "13",
+            "cod_provincia": "1312",
+            "nombre_provincia": "VIRU"
+        },
+        {
+            "cod_departamento": "10",
+            "cod_provincia": "1011",
+            "nombre_provincia": "YAROWILCA"
+        },
+        {
+            "cod_departamento": "12",
+            "cod_provincia": "1208",
+            "nombre_provincia": "YAULI"
+        },
+        {
+            "cod_departamento": "15",
+            "cod_provincia": "1510",
+            "nombre_provincia": "YAUYOS"
+        },
+        {
+            "cod_departamento": "02",
+            "cod_provincia": "0220",
+            "nombre_provincia": "YUNGAY"
+        },
+        {
+            "cod_departamento": "21",
+            "cod_provincia": "2113",
+            "nombre_provincia": "YUNGUYO"
+        },
+        {
+            "cod_departamento": "24",
+            "cod_provincia": "2403",
+            "nombre_provincia": "ZARUMILLA"
+        }
+    ]
+}

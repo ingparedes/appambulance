@@ -1,0 +1,102 @@
+<ion-content>
+    <ion-row>
+        <ion-col size="12">
+            <ion-text class="ion-text-center">
+                <h5>Exploración General</h5>
+            </ion-text>
+        </ion-col>
+    </ion-row>
+    <ion-row>
+        <ion-col size="12">
+            <ion-row>
+                <ion-col size="4">
+                    <ion-list>
+                        <ion-list-header>
+                            <h4>Piel</h4>
+                        </ion-list-header>
+                        <ion-item *ngFor="let cs of checkboxskin">
+                            <ion-label>{{cs.nombre}}</ion-label>
+                            <ion-checkbox value="{{cs.id}}" (ionChange)="SetExpG($event)" slot="start"></ion-checkbox>
+                        </ion-item>
+                    </ion-list>
+                    <ion-list>
+                        <ion-list-header>
+                            <h4>Cabeza</h4>
+                        </ion-list-header>
+                        <ion-item *ngFor="let ch of checkboxhead">
+                            <ion-label>{{ch.nombre}}</ion-label>
+                            <ion-checkbox value="{{ch.id}}" (ionChange)="SetExpG($event)" slot="start"></ion-checkbox>
+                        </ion-item>
+                    </ion-list>
+                    <ion-list>
+                        <ion-list-header>
+                            <h4>Columna</h4>
+                        </ion-list-header>
+                        <ion-item *ngFor="let cb of checkboxback">
+                            <ion-label>{{cb.nombre}}</ion-label>
+                            <ion-checkbox value="{{cb.id}}" (ionChange)="SetExpG($event)" slot="start"></ion-checkbox>
+                        </ion-item>
+                    </ion-list>
+                </ion-col>
+                <ion-col size="4">
+                    <ion-list>
+                        <ion-list-header>
+                            <h4>Pelvis</h4>
+                        </ion-list-header>
+                        <ion-item *ngFor="let cp of checkboxpelv">
+                            <ion-label>{{cp.nombre}}</ion-label>
+                            <ion-checkbox value="{{cp.id}}" (ionChange)="SetExpG($event)" slot="start"></ion-checkbox>
+                        </ion-item>
+                    </ion-list>
+                    <ion-list>
+                        <ion-list-header>
+                            <h4>Torax</h4>
+                        </ion-list-header>
+                        <ion-item *ngFor="let cc of checkboxchest">
+                            <ion-label>{{cc.nombre}}</ion-label>
+                            <ion-checkbox value="{{cc.id}}" (ionChange)="SetExpG($event)" slot="start"></ion-checkbox>
+                        </ion-item>
+                    </ion-list>
+                    <ion-list>
+                        <ion-list-header>
+                            <h4>Cara</h4>
+                        </ion-list-header>
+                        <ion-item *ngFor="let cf of checkboxface">
+                            <ion-label>{{cf.nombre}}</ion-label>
+                            <ion-checkbox value="{{cf.id}}" (ionChange)="SetExpG($event)" slot="start"></ion-checkbox>
+                        </ion-item>
+                    </ion-list>
+                </ion-col>
+                <ion-col size="4">
+                    <ion-list>
+                        <ion-list-header>
+                            <h4>Abdomen</h4>
+                        </ion-list-header>
+                        <ion-item *ngFor="let ca of checkboxabd">
+                            <ion-label>{{ca.nombre}}</ion-label>
+                            <ion-checkbox value="{{ca.id}}" (ionChange)="SetExpG($event)" slot="start"></ion-checkbox>
+                        </ion-item>
+                    </ion-list>
+                    <ion-list>
+                        <ion-list-header>
+                            <h4>Cuello</h4>
+                        </ion-list-header>
+                        <ion-item *ngFor="let cn of checkboxneck">
+                            <ion-label>{{cn.nombre}}</ion-label>
+                            <ion-checkbox value="{{cn.id}}" (ionChange)="SetExpG($event)" slot="start"></ion-checkbox>
+                        </ion-item>
+                    </ion-list>
+                    <ion-list>
+                        <ion-list-header>
+                            <h4>Miembros</h4>
+                        </ion-list-header>
+                        <ion-item *ngFor="let cm of checkboxmember">
+                            <ion-label>{{cm.nombre}}</ion-label>
+                            <ion-checkbox value="{{cm.id}}" (ionChange)="SetExpG($event)" slot="start"></ion-checkbox>
+                        </ion-item>
+                    </ion-list>
+                </ion-col>
+            </ion-row>
+        </ion-col>
+    </ion-row>
+</ion-content>

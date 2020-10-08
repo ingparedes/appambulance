@@ -1,0 +1,72 @@
+<ion-content>
+    <ion-row>        
+        <ion-col size="12" style="text-align: center;">
+            <div >
+                <ion-img style="height: 6rem;" src="../../../../assets/icon/trauma.png"></ion-img>                
+            </div>
+        </ion-col>
+        <ion-col size="12">
+            <ion-row>
+                <ion-col size="7">
+                    <ion-row>
+                        <ion-col size="7">
+                            <ion-list>
+                                <ion-list-header>
+                                    <h4>Agresión Física</h4>
+                                </ion-list-header>
+                                <ion-item *ngFor="let cf of checkboxesf">
+                                    <ion-label>{{cf.nombre}}</ion-label>
+                                    <ion-checkbox value="{{cf.id}}" (ionChange)="SetTrauma($event)" slot="start"></ion-checkbox>
+                                </ion-item>
+                            </ion-list>
+                            <ion-list>
+                                <ion-list-header>
+                                    <h4>Caída</h4>
+                                </ion-list-header>
+                                <ion-item *ngFor="let cc of checkboxesc">
+                                    <ion-label>{{cc.nombre}}</ion-label>
+                                    <ion-checkbox value="{{cc.id}}" (ionChange)="SetTrauma($event)" slot="start"></ion-checkbox>
+                                </ion-item>
+                            </ion-list>
+                        </ion-col>
+                        <ion-col size="5">
+                            <ion-list>
+                                <ion-list-header>
+                                    <h4>Quemadura</h4>
+                                </ion-list-header>
+                                <ion-item *ngFor="let cq of checkboxesq">
+                                    <ion-label>{{cq.nombre}}</ion-label>
+                                    <ion-checkbox value="{{cq.id}}" (ionChange)="SetTrauma($event)" slot="start"></ion-checkbox>
+                                </ion-item>
+                            </ion-list>
+                            <ion-list>
+                                <ion-list-header>
+                                    <h4>Otros</h4>
+                                </ion-list-header>
+                                <ion-item *ngFor="let co of checkboxeso">
+                                    <ion-label>{{co.nombre}}</ion-label>
+                                    <ion-checkbox value="{{co.id}}" (ionChange)="SetTrauma($event)" slot="start"></ion-checkbox>
+                                </ion-item>
+                            </ion-list>
+                        </ion-col>
+                    </ion-row>
+                </ion-col>
+                <ion-col size="5">
+                    <ion-row>
+                        <ion-col size="12">
+                            <ion-list>
+                                <ion-list-header>
+                                    <h4>Automovilística</h4>
+                                </ion-list-header>
+                                <ion-item *ngFor="let ca of checkboxesa">
+                                    <ion-label>{{ca.nombre}}</ion-label>
+                                    <ion-checkbox value="{{ca.id}}" (ionChange)="SetTrauma($event)" slot="start"></ion-checkbox>
+                                </ion-item>
+                            </ion-list>
+                        </ion-col>
+                    </ion-row>
+                </ion-col>                
+            </ion-row>
+        </ion-col>
+    </ion-row>
+</ion-content>

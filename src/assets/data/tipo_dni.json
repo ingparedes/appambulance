@@ -1,0 +1,12 @@
+{
+    "Documentos": [
+        {
+            "id_tipo": "1",
+            "descripcion": "DNI"
+        },
+        {
+            "id_tipo": "2",
+            "descripcion": "CE"
+        }
+    ]
+}

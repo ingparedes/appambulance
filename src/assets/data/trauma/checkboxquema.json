@@ -1,0 +1,18 @@
+[
+    {
+        "id": "12",
+        "nombre": "Electricidad"
+    },
+    {
+        "id": "10",
+        "nombre": "Fuego"
+    },
+    {
+        "id": "13",
+        "nombre": "Otros"
+    },
+    {
+        "id": "11",
+        "nombre": "Quimico"
+    }
+]

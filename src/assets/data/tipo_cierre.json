@@ -1,0 +1,40 @@
+{
+    "Cierre": [
+        {
+            "id": "1",
+            "nombre": "No amerita"
+        },
+        {
+            "id": "2",
+            "nombre": "Registro anulado"
+        },
+        {
+            "id": "3",
+            "nombre": "Retiro voluntario"
+        },
+        {
+            "id": "4",
+            "nombre": "Traslado por otros medios"
+        },
+        {
+            "id": "5",
+            "nombre": "Falsa alarma"
+        },
+        {
+            "id": "6",
+            "nombre": "Eventualidad en traslado"
+        },
+        {
+            "id": "7",
+            "nombre": "Ambulancia no disponible"
+        },
+        {
+            "id": "8",
+            "nombre": "Asesoria Medica"
+        },
+        {
+            "id": "9",
+            "nombre": "Traslado hospital"
+        }
+    ]
+}

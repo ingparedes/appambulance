@@ -1,0 +1,60 @@
+{
+    "Traumas": [
+        {
+            "id": "3",
+            "nombre": "Abrasión"
+        },
+        {
+            "id": "14",
+            "nombre": "Amputación"
+        },
+        {
+            "id": "2",
+            "nombre": "Contusión"
+        },
+        {
+            "id": "5",
+            "nombre": "Crepitación"
+        },
+        {
+            "id": "1",
+            "nombre": "Deformidad"
+        },
+        {
+            "id": "8",
+            "nombre": "Enfisema Subcutanea"
+        },
+        {
+            "id": "7",
+            "nombre": "Fractura"
+        },
+        {
+            "id": "13",
+            "nombre": "Hemorragia"
+        },
+        {
+            "id": "6",
+            "nombre": "Herida"
+        },
+        {
+            "id": "11",
+            "nombre": "Herida Abierta"
+        },
+        {
+            "id": "10",
+            "nombre": "Laceración"
+        },
+        {
+            "id": "12",
+            "nombre": "Luxación"
+        },
+        {
+            "id": "4",
+            "nombre": "Penetración"
+        },
+        {
+            "id": "9",
+            "nombre": "Quemadura"
+        }
+    ]
+}

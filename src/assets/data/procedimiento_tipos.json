@@ -1,0 +1,96 @@
+{
+    "Procedimientos": [
+        {
+            "id": "1",
+            "nombre_procedimeto": "Acceso venoso central"
+        },
+        {
+            "id": "2",
+            "nombre_procedimeto": "Acceso venoso intraoseo"
+        },
+        {
+            "id": "3",
+            "nombre_procedimeto": "Acceso venoso periferico"
+        },
+        {
+            "id": "4",
+            "nombre_procedimeto": "Colocación de canula laringea"
+        },
+        {
+            "id": "5",
+            "nombre_procedimeto": "Cricotiroidoctomia"
+        },
+        {
+            "id": "6",
+            "nombre_procedimeto": "Descompresión tórax"
+        },
+        {
+            "id": "7",
+            "nombre_procedimeto": "Dren toraxico"
+        },
+        {
+            "id": "8",
+            "nombre_procedimeto": "Extracción c. extraño"
+        },
+        {
+            "id": "9",
+            "nombre_procedimeto": "Fluidoterapia. volumen"
+        },
+        {
+            "id": "10",
+            "nombre_procedimeto": "Hemostasia"
+        },
+        {
+            "id": "11",
+            "nombre_procedimeto": "Inmovilización de extremidades"
+        },
+        {
+            "id": "12",
+            "nombre_procedimeto": "Intubación"
+        },
+        {
+            "id": "13",
+            "nombre_procedimeto": "Medicación"
+        },
+        {
+            "id": "14",
+            "nombre_procedimeto": "Oxigenoterapia L/min"
+        },
+        {
+            "id": "15",
+            "nombre_procedimeto": "Punción Cricotiroidea"
+        },
+        {
+            "id": "16",
+            "nombre_procedimeto": "Sondaje gástrico"
+        },
+        {
+            "id": "17",
+            "nombre_procedimeto": "Sondaje vesical"
+        },
+        {
+            "id": "18",
+            "nombre_procedimeto": "Sutura/curación"
+        },
+        {
+            "id": "19",
+            "nombre_procedimeto": "Taponamiento nasal"
+        },
+        {
+            "id": "20",
+            "nombre_procedimeto": "Uso de torniquete"
+        },
+        {
+            "id": "21",
+            "nombre_procedimeto": "Vendaje"
+        },
+        {
+            "id": "22",
+            "nombre_procedimeto": "Ventilación Manual"
+        },
+        {
+            "id": "23",
+            "nombre_procedimeto": "Ventilación Mecánica"
+        }
+    ]
+}

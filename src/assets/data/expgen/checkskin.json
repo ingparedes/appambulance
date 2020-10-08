@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "nombre": "Cálida"
+    },
+    {
+        "id": "2",
+        "nombre": "Caliente"
+    },
+    {
+        "id": "6",
+        "nombre": "Cianática"
+    },
+    {
+        "id": "3",
+        "nombre": "Fría"
+    },
+    {
+        "id": "5",
+        "nombre": "Seca"
+    },
+    {
+        "id": "4",
+        "nombre": "Sudorosa"
+    }
+]

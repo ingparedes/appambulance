@@ -1,0 +1,440 @@
+{
+    "Aseguradoras": [
+        {
+            "id_asegurador": "39",
+            "nombre_asegurador": "ACADEMIA DENTAL INTERNACIONAL E.I.R.L."
+        },
+        {
+            "id_asegurador": "14",
+            "nombre_asegurador": "ADMINISTRADORA CLÍNICA RICARDO PALMA SA"
+        },
+        {
+            "id_asegurador": "78",
+            "nombre_asegurador": "AFOCAT CETU PERÚ"
+        },
+        {
+            "id_asegurador": "4",
+            "nombre_asegurador": "AIAFAS DE LA FUERZA AEREA DEL PERU (FOSFAP)"
+        },
+        {
+            "id_asegurador": "18",
+            "nombre_asegurador": "ASOCIACIÓN CIVIL NUESTRA SEÑORA DEL SAGRADO CORAZÓN CLÍNICA STELLA MARIS"
+        },
+        {
+            "id_asegurador": "92",
+            "nombre_asegurador": "ASOCIACIÓN DE FONDO CONTRA ACCIDENTES DE TRÁNSITO -AFOCAT - AFOSECAT-SAN MARTÍN-"
+        },
+        {
+            "id_asegurador": "86",
+            "nombre_asegurador": "ASOCIACIÓN DE FONDO CONTRA ACCIDENTES DE TRÁNSITO - AFOCAT TRANS REGIÓN PIURA"
+        },
+        {
+            "id_asegurador": "84",
+            "nombre_asegurador": "ASOCIACIÓN DE FONDO CONTRA ACCIDENTES DE TRÁNSITO DEL ORIENTE - REGIÓN LORETO -AFOCAT DEL ORIENTE - REGIÓN LORETO-"
+        },
+        {
+            "id_asegurador": "70",
+            "nombre_asegurador": "ASOCIACIÓN DE FONDO CONTRA ACCIDENTES DE TRÁNSITO DE LOS TRANSPORTISTAS DE LA REGIÓN JUNÍN PASCO HUÁNUCO"
+        },
+        {
+            "id_asegurador": "83",
+            "nombre_asegurador": "ASOCIACIÓN DE FONDOS CONTRA ACCIDENTES DE TRÁNSITO (AFOCAT) -NUESTRA SEÑORA DE LA ASUNCIÓN-"
+        },
+        {
+            "id_asegurador": "85",
+            "nombre_asegurador": "ASOCIACIÓN DE FONDOS CONTRA ACCIDENTES DE TRÁNSITO DE LA REGIÓN MOQUEGUA -AFOCAT - MOQUEGUA-"
+        },
+        {
+            "id_asegurador": "65",
+            "nombre_asegurador": "ASOCIACIÓN DE FONDOS CONTRA ACCIDENTES DE TRÁNSITO EL ANGEL -AFOCAT EL ANGEL-"
+        },
+        {
+            "id_asegurador": "64",
+            "nombre_asegurador": "ASOCIACIÓN DE FONDOS CONTRA ACCIDENTES DE TRÁNSITO REGIONAL BELLA DURMIENTE - AFOCAT REGIONAL BELLA DURMIENTE -AFOCAT REGIONAL BELLA DURMIENTE-"
+        },
+        {
+            "id_asegurador": "62",
+            "nombre_asegurador": "ASOCIACIÓN DE FONDOS CONTRA ACCIDENTES DE TRÁNSITO REGIÓN CUSCO -AFOCAT REGIÓN CUSCO-"
+        },
+        {
+            "id_asegurador": "66",
+            "nombre_asegurador": "ASOCIACIÓN DE FONDOS CONTRA ACCIDENTES DE TRÁNSITO REGIÓN ICA --AFOCAT REGIÓN ICA--"
+        },
+        {
+            "id_asegurador": "104",
+            "nombre_asegurador": "ASOCIACIÓN DE FONDOS CONTRA ACCIDENTES DE TRANSITO SOCAT"
+        },
+        {
+            "id_asegurador": "67",
+            "nombre_asegurador": "ASOCIACIÓN DE FONDOS CONTRA ACCIDENTES DE TRÁNSITO UNIÓN --AFOCATU--"
+        },
+        {
+            "id_asegurador": "75",
+            "nombre_asegurador": "ASOCIACIÓN DE USUARIOS DEL FONDO REGIONAL CONTRA ACCIDENTES DE TRÁNSITO - FORCAT"
+        },
+        {
+            "id_asegurador": "54",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTE DE TRANSITO CHIMBOTE REGIÓN ANCASH -AFOCAT CHIMBOTE REGION ANCASH"
+        },
+        {
+            "id_asegurador": "57",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRÁNSITO DE LA REGIÓN AREQUIPA -AFOCAT - REGIÓN AREQUIPA-"
+        },
+        {
+            "id_asegurador": "56",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRANSITO DE LA REGIÓN AREQUIPA Y ANEXOS - AFOCAT RAVISUR"
+        },
+        {
+            "id_asegurador": "60",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRÁNSITO DE LA REGIÓN DE CAJAMARCA -AFOCAT - REGIÓN CAJAMARCA-"
+        },
+        {
+            "id_asegurador": "69",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRÁNSITODE LA REGIÓN JUNÍN -AFOCAT - JUNÍN-"
+        },
+        {
+            "id_asegurador": "73",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRÁNSITO DE LA REGIÓN LA LIBERTAD -AFOCAT - TRUJILLO REGIÓN LA LIBERTAD-"
+        },
+        {
+            "id_asegurador": "81",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRÁNSITO DE LA REGIÓN LIMA METROPOLITANA Y PROVINCIA CONSTITUCIONAL DEL CALLAO -AFOCAT - REGIÓN LIMA-"
+        },
+        {
+            "id_asegurador": "82",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRÁNSITO DE LA REGIÓN LIMA PROVNCIAS -AFOCAT LIMA PROVINCIAS-"
+        },
+        {
+            "id_asegurador": "91",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRÁNSITO DE LA REGIÓN SAN MARTÍN -AFOCAT SAN MARTÍN-"
+        },
+        {
+            "id_asegurador": "58",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRÁNSITO DEL FRENTE ÚNICO DE TRANSPORTE PÚBLICO URBANO E INTERURBANO DE LA REGIÓN AREQUIPA -AFOCATFUTUIRA-"
+        },
+        {
+            "id_asegurador": "90",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRÁNSITO DE PUNO -AFOCAT PUNO-"
+        },
+        {
+            "id_asegurador": "55",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRÁNSITO DE TRANSPORTISTAS DE LA REGIÓN AREQUIPA -AFOCAT TRA-"
+        },
+        {
+            "id_asegurador": "63",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRÁNSITO DE TRANSPORTISTAS DEL CUSCO -AFOCATTRANS - CUSCO-"
+        },
+        {
+            "id_asegurador": "88",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRÁNSITO LA PRIMERA --AFOCAT LA PRIMERA--"
+        },
+        {
+            "id_asegurador": "52",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRÁNSITO LÍDER PERÚ"
+        },
+        {
+            "id_asegurador": "51",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRÁNSITO LIMA METROPOLITANA -AFOCAT LIMA METROPOLITANA-"
+        },
+        {
+            "id_asegurador": "68",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRÁNSITO MACRO - REGIÓN CENTRO NOR-ORIENTE"
+        },
+        {
+            "id_asegurador": "87",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRÁNSITO - PIURA -AFOCAT - PIURA-"
+        },
+        {
+            "id_asegurador": "80",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRÁNSITO PREMIUM-AFOCAT PREMIUM"
+        },
+        {
+            "id_asegurador": "103",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRÁNSITO REGIONAL LEONDE HUÁNUCO - \"AFOCAT LEÓN DE HUÁNUCO\""
+        },
+        {
+            "id_asegurador": "79",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRÁNSITO REGIÓN METROPOLITANA -AFOCAT RM-"
+        },
+        {
+            "id_asegurador": "94",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRÁNSITO REGIÓN TACNA"
+        },
+        {
+            "id_asegurador": "93",
+            "nombre_asegurador": "ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRÁNSITO SUR PERÚ REGIÓN TACNA"
+        },
+        {
+            "id_asegurador": "71",
+            "nombre_asegurador": "ASOCIACIÓN FONDO DE COBERTURA DE ACCIDENTES DE TRÁNSITO LA LIBERTAD -AFOCAT LA LIBERTAD-"
+        },
+        {
+            "id_asegurador": "61",
+            "nombre_asegurador": "ASOCIACIÓN FONDO DE COBERTURAS DE ACCIDENTES DE TRÁNSITO DEL CUMBE -AFOCATDC-"
+        },
+        {
+            "id_asegurador": "53",
+            "nombre_asegurador": "ASOCIACIÓN FONDO REGIONAL CONTRA ACCIDENTES DE TRANSITO DE ANCASH -AFOCART-ANCASH-"
+        },
+        {
+            "id_asegurador": "72",
+            "nombre_asegurador": "ASOCIACIÓN FONDO REGIONAL CONTRA ACCIDENTES DE TRÁNSITO NUEVO HORIZONTE REGIÓN LA LIBERTAD -AFOCAT NUEVO HORIZONTE REGIÓN LA LIBERTAD-"
+        },
+        {
+            "id_asegurador": "30",
+            "nombre_asegurador": "ASOCIACION PASTORAL DE SERVICIOS MEDICO - ASISTENCIALES GOOD HOPE DE LA IGLESIA ADVENTISTA DEL SEPTIMO DIA"
+        },
+        {
+            "id_asegurador": "29",
+            "nombre_asegurador": "ASOCIACIÓN PERUANO JAPONESA (APJ)"
+        },
+        {
+            "id_asegurador": "77",
+            "nombre_asegurador": "AUTOSEGURO ASOCIACIÓN FONDO CONTRA ACCIDENTES DE TRÁNSITO -AUTOSEGURO AFOCAT-"
+        },
+        {
+            "id_asegurador": "49",
+            "nombre_asegurador": "AUTOSEGURO DE ACCIDENTES PERSONALES DE LA UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS"
+        },
+        {
+            "id_asegurador": "34",
+            "nombre_asegurador": "AUTOSEGURO DEL FONDO PARA ENFERMEDADES, SEGUROS Y PENSIONES DE EMPLEADOS DEL BANCO CENTRAL DE RESERVA DEL PERÚ"
+        },
+        {
+            "id_asegurador": "32",
+            "nombre_asegurador": "AUTOSEGURO DEL MINISTERIO DE COMERCIO EXTERIOR Y TURISMO"
+        },
+        {
+            "id_asegurador": "35",
+            "nombre_asegurador": "AUTOSEGURO FONDO DE EMPLEADOS DEL BANCO DE LA NACIÓN"
+        },
+        {
+            "id_asegurador": "33",
+            "nombre_asegurador": "AUTOSEGURO MEF DEL MINISTERIO DE ECONOMÍA Y FINANZAS"
+        },
+        {
+            "id_asegurador": "59",
+            "nombre_asegurador": "AUTOSEGUROS DE FONDOS CONTRA ACCIDENTES DE TRÁNSITO AYACUCHO --AUTOSEGUROS AFOCAT AYACUCHO--"
+        },
+        {
+            "id_asegurador": "76",
+            "nombre_asegurador": "AUTOSEGUROS DE FONDOS CONTRA ACCIDENTES DE TRÁNSITO DE LIMA -AUTOSEGUROS AFOCAT LIMA-"
+        },
+        {
+            "id_asegurador": "24",
+            "nombre_asegurador": "BNP PARIBAS CARDIF COMPAÑIA DE SEGUROS Y REASEGUROS"
+        },
+        {
+            "id_asegurador": "98",
+            "nombre_asegurador": "BRITISH AMERICAN HOSPITAL S.A."
+        },
+        {
+            "id_asegurador": "22",
+            "nombre_asegurador": "CENTRO MEDICO CLÍNICA SAN JUDAS TADEO S.A."
+        },
+        {
+            "id_asegurador": "43",
+            "nombre_asegurador": "CENTRO ODONTOLÓGICO AMERICANO S.A.C."
+        },
+        {
+            "id_asegurador": "23",
+            "nombre_asegurador": "CHUBB PERÚ S.A. COMPAÑÍA DE SEGUROS Y REASEGUROS - CHUBB SEGUROS PERÚ S.A."
+        },
+        {
+            "id_asegurador": "38",
+            "nombre_asegurador": "CLÍNICA INTERNACIONAL S.A."
+        },
+        {
+            "id_asegurador": "21",
+            "nombre_asegurador": "CLÍNICA JAVIER PRADO SA"
+        },
+        {
+            "id_asegurador": "15",
+            "nombre_asegurador": "CLÍNICA SAN PABLO SAC"
+        },
+        {
+            "id_asegurador": "45",
+            "nombre_asegurador": "CORPAC S.A."
+        },
+        {
+            "id_asegurador": "107",
+            "nombre_asegurador": "CRECER SEGUROS S.A. COMPAÑÍA DE SEGUROS"
+        },
+        {
+            "id_asegurador": "99",
+            "nombre_asegurador": "CSALUD S.A."
+        },
+        {
+            "id_asegurador": "25",
+            "nombre_asegurador": "EL PACIFICO PERUANO SUIZA COMPAÑIA DE SEGUROS Y REASEGUROS SA"
+        },
+        {
+            "id_asegurador": "109",
+            "nombre_asegurador": "EMPRESA DE SERVICIOS DE SALUD CLÍNICA CONTINENTAL S.A.C."
+        },
+        {
+            "id_asegurador": "102",
+            "nombre_asegurador": "FESALUD SA"
+        },
+        {
+            "id_asegurador": "89",
+            "nombre_asegurador": "FONDO CONTRA ACCIDENTES DE TRÁNSITO REGIÓN PUNO -FONCAT-"
+        },
+        {
+            "id_asegurador": "7",
+            "nombre_asegurador": "FONDO DE ASEGURAMIENTO EN SALUD DE LA POLICÍA NACIONAL DEL PERÚ"
+        },
+        {
+            "id_asegurador": "95",
+            "nombre_asegurador": "FONDO DE ASISTENCIA SOCIAL DE LOS MOTOTAXISTAS Y TRANSPORTISTAS DE TUMBES -FASMOT-"
+        },
+        {
+            "id_asegurador": "50",
+            "nombre_asegurador": "FONDO DE EMPLEADOS DE SUNAT"
+        },
+        {
+            "id_asegurador": "37",
+            "nombre_asegurador": "FONDO INTAGIBLE SOLIDARIO DE SALUD"
+        },
+        {
+            "id_asegurador": "101",
+            "nombre_asegurador": "FONDOS DE PRESTACIONES ASISTENCIALES Y SERVICIOS FUNERARIOS"
+        },
+        {
+            "id_asegurador": "5",
+            "nombre_asegurador": "IAFAS DE LA MARINA DE GUERRA DEL PERÚ"
+        },
+        {
+            "id_asegurador": "6",
+            "nombre_asegurador": "IAFAS DEL EJERCITO DEL PERU (FOSPEME))"
+        },
+        {
+            "id_asegurador": "19",
+            "nombre_asegurador": "INSTITUTO ONCOLÓGICO DE LIMA SA"
+        },
+        {
+            "id_asegurador": "96",
+            "nombre_asegurador": "INTERSEGUROS COMPAÑÍA DE SEGUROS Y REASEGUROS"
+        },
+        {
+            "id_asegurador": "42",
+            "nombre_asegurador": "LA ESPERANZA DEL PERÚ S.A."
+        },
+        {
+            "id_asegurador": "26",
+            "nombre_asegurador": "LA POSITIVA COMPAÑÍA DE SEGUROS Y REASEGUROS SA"
+        },
+        {
+            "id_asegurador": "105",
+            "nombre_asegurador": "LA POSITIVA S.A. EPS"
+        },
+        {
+            "id_asegurador": "27",
+            "nombre_asegurador": "MAPFRE PERU CIA DE SEGUROS Y REASEGUROS"
+        },
+        {
+            "id_asegurador": "11",
+            "nombre_asegurador": "MAPFRE PERU SA EPS"
+        },
+        {
+            "id_asegurador": "20",
+            "nombre_asegurador": "MEDICINA EXTERNA SA"
+        },
+        {
+            "id_asegurador": "40",
+            "nombre_asegurador": "ONCOCARE S.R.L."
+        },
+        {
+            "id_asegurador": "13",
+            "nombre_asegurador": "ONCOSALUD SAC"
+        },
+        {
+            "id_asegurador": "97",
+            "nombre_asegurador": "PACÍFICO COMPAÑÍA DE SEGUROS Y REASEGUROS S.A."
+        },
+        {
+            "id_asegurador": "9",
+            "nombre_asegurador": "PACIFICO SA EPS"
+        },
+        {
+            "id_asegurador": "10",
+            "nombre_asegurador": "PERSALUD SA ES"
+        },
+        {
+            "id_asegurador": "47",
+            "nombre_asegurador": "PETROLEOS DEL PERÚ - PROGRAMA DE ASISTENCIA FAMILIAR"
+        },
+        {
+            "id_asegurador": "100",
+            "nombre_asegurador": "PROGRAMA DE ASISTENCIA MÉDICA FAMILIAR - PAMF"
+        },
+        {
+            "id_asegurador": "46",
+            "nombre_asegurador": "PROGRAMA DE AUTOSEGURO MÉDICO - FAMILIAR DE SEDAPAL"
+        },
+        {
+            "id_asegurador": "48",
+            "nombre_asegurador": "PROGRAMA SERVICIO MÉDICO FAMILIAR - SEMEFA"
+        },
+        {
+            "id_asegurador": "44",
+            "nombre_asegurador": "PROMOTORA ASISTENCIAL S.A.C."
+        },
+        {
+            "id_asegurador": "106",
+            "nombre_asegurador": "PROTECTA S.A. COMPAÑÍA DE SEGUROS"
+        },
+        {
+            "id_asegurador": "110",
+            "nombre_asegurador": "QUÁLITAS COMPAÑÍA DE SEGUROS S.A."
+        },
+        {
+            "id_asegurador": "108",
+            "nombre_asegurador": "RIGEL PERÚ S.A. COMPAÑÍA DE SEGUROS"
+        },
+        {
+            "id_asegurador": "8",
+            "nombre_asegurador": "RIMAC S.A EPS"
+        },
+        {
+            "id_asegurador": "28",
+            "nombre_asegurador": "RIMAC SEGUROS Y REASEGUROS"
+        },
+        {
+            "id_asegurador": "12",
+            "nombre_asegurador": "SANITAS PERÚ S.A. EPS"
+        },
+        {
+            "id_asegurador": "3",
+            "nombre_asegurador": "SEGURO INTEGRAL DE SALUD"
+        },
+        {
+            "id_asegurador": "2",
+            "nombre_asegurador": "SEGURO SOCIAL DE SALUD"
+        },
+        {
+            "id_asegurador": "16",
+            "nombre_asegurador": "SERVICIO DE SALUD MONTEFIORI SAC"
+        },
+        {
+            "id_asegurador": "36",
+            "nombre_asegurador": "SERVICIOS INDUSTRIALES DE LA MARINA S.A."
+        },
+        {
+            "id_asegurador": "41",
+            "nombre_asegurador": "SISTEMAS DE ADMINISTRACIÓN HOSPITALARIA S.A.C."
+        },
+        {
+            "id_asegurador": "31",
+            "nombre_asegurador": "SOCIEDAD FRANCESA DE BENEFICENCIA"
+        },
+        {
+            "id_asegurador": "74",
+            "nombre_asegurador": "TAXI ASOCIACIÓN REGIONAL DE FONDOS CONTRA ACCIDENTES DE TRÁNSITO DE LAMBAYEQUE -TAXI AFOCAT LAMB-"
+        },
+        {
+            "id_asegurador": "17",
+            "nombre_asegurador": "VESALIO SA"
+        }
+    ]
+}

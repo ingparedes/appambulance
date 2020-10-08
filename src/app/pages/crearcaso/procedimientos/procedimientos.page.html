@@ -1,0 +1,20 @@
+<ion-content>
+    <!-- TITULO -->
+    <ion-row>
+        <ion-col size="12">
+            <ion-text class="ion-text-center">
+                <h5>Procedimientos</h5>
+            </ion-text>
+        </ion-col>
+    </ion-row>
+    <!-- TITULO -->
+    <!-- FORMULARIO -->
+    <ion-row>
+        <ion-col size="4" *ngFor="let p of procedimientos">
+            <ion-item lines="none">
+                <ion-label>{{p.nombre_procedimeto}}</ion-label>
+                <ion-checkbox value="{{p.id}}" (ionChange)="SetProc($event)" slot="start"></ion-checkbox>
+            </ion-item>
+        </ion-col>
+    </ion-row>
+</ion-content>

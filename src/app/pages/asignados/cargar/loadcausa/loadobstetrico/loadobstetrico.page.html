@@ -1,0 +1,75 @@
+<ion-content>
+    <ion-row>
+        <ion-col size="12" style="text-align: center;">
+            <div >
+                <ion-img style="height: 6rem;" src="../../../../assets/icon/obstetrico.png"></ion-img>                
+            </div>
+        </ion-col>
+        <ion-col size="12">
+            <ion-row>
+                <ion-col size="12">
+                    <ion-item>
+                        <ion-label>Trabajo de parto</ion-label>
+                        <ion-checkbox  value="1" (ionChange)="setTrab($event)" slot="start"></ion-checkbox>
+                    </ion-item>
+                </ion-col>
+                <ion-col size="12">
+                    <ion-item>
+                        <ion-label>Sangrado Vaginal</ion-label>
+                        <ion-checkbox  value="1" (ionChange)="setSang($event)" slot="start"></ion-checkbox>
+                    </ion-item>
+                </ion-col>
+                <ion-col size="12">
+                    <ion-row>
+                        <ion-col size="2.4">
+                            <ion-item>
+                                <ion-label position="floating">G</ion-label>
+                                <ion-input [(ngModel)]="g" type="text"></ion-input>
+                            </ion-item>
+                        </ion-col>
+                        <ion-col size="2.4">
+                            <ion-item>
+                                <ion-label position="floating">P</ion-label>
+                                <ion-input [(ngModel)]="p" type="text"></ion-input>
+                            </ion-item>
+                        </ion-col>
+                        <ion-col size="2.4">
+                            <ion-item>
+                                <ion-label position="floating">A</ion-label>
+                                <ion-input [(ngModel)]="a" type="text"></ion-input>
+                            </ion-item>
+                        </ion-col>
+                        <ion-col size="2.4">
+                            <ion-item>
+                                <ion-label position="floating">N</ion-label>
+                                <ion-input [(ngModel)]="n" type="text"></ion-input>
+                            </ion-item>
+                        </ion-col>
+                        <ion-col size="2.4">
+                            <ion-item>
+                                <ion-label position="floating">C</ion-label>
+                                <ion-input [(ngModel)]="c" type="text"></ion-input>
+                            </ion-item>
+                        </ion-col>
+                    </ion-row>
+                </ion-col>
+                <ion-col size="12">
+                    <ion-item>
+                        <ion-label>Fuente Rota</ion-label>
+                        <ion-checkbox value="1" (ionChange)="setFuente($event)" slot="start"></ion-checkbox>
+                    </ion-item>
+                </ion-col>
+                <ion-col size="12">
+                    <ion-row>
+                        <ion-col size="12">
+                            <ion-item>
+                                <ion-label position="floating">Tiempo de Gestación</ion-label>
+                                <ion-input [(ngModel)]="tgest" type="text"></ion-input>
+                            </ion-item>
+                        </ion-col>
+                    </ion-row>
+                </ion-col>
+            </ion-row>
+        </ion-col>
+    </ion-row>
+</ion-content>

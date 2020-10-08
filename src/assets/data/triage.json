@@ -1,0 +1,24 @@
+{
+    "Triage": [
+        {
+            "id": "1",
+            "nombre": "ROJO"
+        },
+        {
+            "id": "2",
+            "nombre": "NARANJA"
+        },
+        {
+            "id": "3",
+            "nombre": "AMARILLO"
+        },
+        {
+            "id": "4",
+            "nombre": "AZUL"
+        },
+        {
+            "id": "5",
+            "nombre": "VERDE"
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+{
+    "Insumos": [
+        {
+            "id_insumo": "10",
+            "nombre_insumo": "BAJANTE DE SUERO"
+        },
+        {
+            "id_insumo": "20",
+            "nombre_insumo": "BATA DESCARTABLE"
+        },
+        {
+            "id_insumo": "8",
+            "nombre_insumo": "CANULA DE MAYO 2 DE CADA  2,1,0"
+        },
+        {
+            "id_insumo": "17",
+            "nombre_insumo": "CANULA DE MAYO 2 DE CADA  2,1,0"
+        },
+        {
+            "id_insumo": "14",
+            "nombre_insumo": "CANULAS NASALES 2 DE CADA 2,4"
+        },
+        {
+            "id_insumo": "18",
+            "nombre_insumo": "CANULAS NASALES 2 DE CADA 2,4"
+        },
+        {
+            "id_insumo": "40",
+            "nombre_insumo": "CATETER DE ASPIRACION 10/12/14 ( 02 DE CADA)"
+        },
+        {
+            "id_insumo": "16",
+            "nombre_insumo": "CATETER DE ASPIRACION NO. 4/6/8 ( 02 DE CADA)"
+        },
+        {
+            "id_insumo": "6",
+            "nombre_insumo": "CATETER DE CANALIZACION NUM. 14;16;18;20;22;24"
+        },
+        {
+            "id_insumo": "25",
+            "nombre_insumo": "CORREAS TIPO ARAÑA"
+        },
+        {
+            "id_insumo": "29",
+            "nombre_insumo": "CUELLOS TIPO FILADELFIA (1PP, 2P, 2M, 1G, 1NINO)"
+        },
+        {
+            "id_insumo": "37",
+            "nombre_insumo": "DISPENSADOR CON ALCOHOL"
+        },
+        {
+            "id_insumo": "36",
+            "nombre_insumo": "ELECTRODOS   (CABOS Y PALETAS)"
+        },
+        {
+            "id_insumo": "27",
+            "nombre_insumo": "FARULAS DE INMOVILIZAR EXTREMIDADES"
+        },
+        {
+            "id_insumo": "28",
+            "nombre_insumo": "FARULAS DE INMOVILIZAR EXTREMIDADES INFERIORES"
+        },
+        {
+            "id_insumo": "49",
+            "nombre_insumo": "FERULA DE TRAUMA TIPO CUCHARA"
+        },
+        {
+            "id_insumo": "48",
+            "nombre_insumo": "FERULA ESPINAL LARGA DE TRAUMA R??¼GIDA"
+        },
+        {
+            "id_insumo": "44",
+            "nombre_insumo": "FRASCO DE ASPIRACION CON MANGUERA Y CON SONDA 14"
+        },
+        {
+            "id_insumo": "3",
+            "nombre_insumo": "GASA QUIRURGICA ESTERIL"
+        },
+        {
+            "id_insumo": "4",
+            "nombre_insumo": "GASA QUIRURGICA NO ESTERIL (30 UNIDAD /KIT)"
+        },
+        {
+            "id_insumo": "23",
+            "nombre_insumo": "GORROS DESECHABLE"
+        },
+        {
+            "id_insumo": "5",
+            "nombre_insumo": "GUANTES     10 Unidades         (P, M E G)"
+        },
+        {
+            "id_insumo": "45",
+            "nombre_insumo": "HUMEDIFICADOR CON MANGUERA Y MASCARILLA DE NEBULIZAR"
+        },
+        {
+            "id_insumo": "46",
+            "nombre_insumo": "INMOVILIZADOR MEDIA TORSO ADULTO"
+        },
+        {
+            "id_insumo": "47",
+            "nombre_insumo": "INMOVILIZADOR MEDIA TORSO PEDIATRICO"
+        },
+        {
+            "id_insumo": "30",
+            "nombre_insumo": "KIT (AGUJA) 25X8/25X8/10X4.5/40X12 (10 CADA)"
+        },
+        {
+            "id_insumo": "41",
+            "nombre_insumo": "KIT CANULA DE MAYO 2DE CADA 5,4,3"
+        },
+        {
+            "id_insumo": "42",
+            "nombre_insumo": "KIT CANULAS NASALS 2 DE CADA 6,8"
+        },
+        {
+            "id_insumo": "32",
+            "nombre_insumo": "KIT JERINGUILLAS 05 CADA(3ML/5ML/10ML/20ML"
+        },
+        {
+            "id_insumo": "34",
+            "nombre_insumo": "KIT OXIGENO(NASALS 2 DE CADA (02;04;6,8 ;10)"
+        },
+        {
+            "id_insumo": "35",
+            "nombre_insumo": "KIT PARTO(SABANA; PERA PARA FLUIDOS; CLAMP"
+        },
+        {
+            "id_insumo": "31",
+            "nombre_insumo": "KIT PUNCION TORACICA/CRICO"
+        },
+        {
+            "id_insumo": "33",
+            "nombre_insumo": "KIT SONDA LEVINE 02"
+        },
+        {
+            "id_insumo": "7",
+            "nombre_insumo": "KIT   TUBOS ENDOTRAQUEALES SEN  BALON PARA NIÑO  NUM01/02/03/04/05/06 (02 UNIDAD.CADA)"
+        },
+        {
+            "id_insumo": "22",
+            "nombre_insumo": "LENTES PROTECCION"
+        },
+        {
+            "id_insumo": "12",
+            "nombre_insumo": "MANTA ALUMINIO"
+        },
+        {
+            "id_insumo": "43",
+            "nombre_insumo": "MASCARILLA LARINGEA PARA ADULTO"
+        },
+        {
+            "id_insumo": "19",
+            "nombre_insumo": "MASCARILLA LARINGEA  PARA NI??ªO"
+        },
+        {
+            "id_insumo": "21",
+            "nombre_insumo": "MASCARILLAS DESCARTABLES"
+        },
+        {
+            "id_insumo": "38",
+            "nombre_insumo": "ORINALES PLASTICO"
+        },
+        {
+            "id_insumo": "39",
+            "nombre_insumo": "RESPIRADOR MANUAL ADULTO CON BOLSA"
+        },
+        {
+            "id_insumo": "15",
+            "nombre_insumo": "RESPIRADOR MANUAL NEONATAL  CON BOLSA"
+        },
+        {
+            "id_insumo": "24",
+            "nombre_insumo": "ROLLO DE PAPEL"
+        },
+        {
+            "id_insumo": "13",
+            "nombre_insumo": "TIJERA DE TRAUMA"
+        },
+        {
+            "id_insumo": "26",
+            "nombre_insumo": "TIRANTES"
+        },
+        {
+            "id_insumo": "11",
+            "nombre_insumo": "TORNIQUETE"
+        },
+        {
+            "id_insumo": "9",
+            "nombre_insumo": "TURUNDA"
+        },
+        {
+            "id_insumo": "1",
+            "nombre_insumo": "VENDAJE ELASTICO 10 CM"
+        },
+        {
+            "id_insumo": "2",
+            "nombre_insumo": "VENDAJE ELASTICO 15 CM"
+        }
+    ]
+}

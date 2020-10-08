@@ -1,0 +1,56 @@
+<ion-content>
+    <ion-row>
+        <ion-col size="6" style="text-align: center;">
+            <h5>Lista de Medicamentos</h5>
+            <ion-card>
+                <ion-list style="height: 14rem; overflow: scroll;">
+                    <ion-item lines="none" *ngFor="let m of medicamentos">
+                        <ion-label>{{m.nombre_medicamento}}</ion-label>
+                        <ion-button slot="start" (click)="addMedicamento(m.id_medicamento,m.nombre_medicamento)"
+                            shape="round">
+                            <ion-icon name="add"></ion-icon>
+                        </ion-button>
+                    </ion-item>
+                </ion-list>
+            </ion-card>
+        </ion-col>
+        <ion-col size="6" style="text-align: center;">
+            <h5>Lista de Insumos</h5>
+            <ion-card>
+                <ion-list style="height: 14rem; overflow: scroll;">
+                    <ion-item lines="none" *ngFor="let i of insumos">
+                        <ion-label>{{i.nombre_insumo}}</ion-label>
+                        <ion-button slot="start" (click)="addInsumo(i.id_insumo,i.nombre_insumo)" shape="round">
+                            <ion-icon name="add"></ion-icon>
+                        </ion-button>
+                    </ion-item>
+                </ion-list>
+            </ion-card>
+        </ion-col>
+        <ion-col size="6" style="text-align: center;">
+            <h5>Medicamentos Seleccionados</h5>
+            <ion-card>
+                <ion-list style="height: 14rem; overflow: scroll;">
+                    <ion-item lines="none" *ngFor="let sm of selectmedicamentos ">
+                        <p>
+                            <span>Medicamento: <strong>{{sm.med}}</strong> Cant: <strong>{{sm.cant}}</strong></span><br>
+                        </p>
+                    </ion-item>
+                </ion-list>
+            </ion-card>
+        </ion-col>
+        <ion-col size="6" style="text-align: center;">
+            <h5>Insumos Seleccionados</h5>
+            <ion-card>
+                <ion-list style="height: 14rem; overflow: scroll;">
+                    <ion-item lines="none" *ngFor="let si of selectinsumos">
+                        <p>
+                            <span>Insumo: <strong>{{si.ins}}</strong></span>
+                            <span> Cant: <strong>{{si.cant}}</strong></span>
+                        </p>
+                    </ion-item>
+                </ion-list>
+            </ion-card>
+        </ion-col>
+    </ion-row>
+</ion-content>
